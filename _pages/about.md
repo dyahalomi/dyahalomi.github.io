@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+
+
 I am a graduate student at Columbia University in the Department of Astronomy & Astrophysics. I received my bachelor's from MIT in Physics with a Concentration in Astronomy and with Minors in Computer Science and Comparitive Media Studies in 2018. After MIT, I spent two years working as a part of the TESS Science Team at the Center for Astrophysics | Harvard & Smithsonian. Currently, I am a [LSSTC DSFP Fellow](https://www.lsstcorporation.org/lincc/fellowship_program) and an [AAS NOLP Fellow](https://aas.org/nolp).
 
 
@@ -22,8 +24,7 @@ My research focuses on **exoplanets** and the stars that they orbit. An exoplane
 
 I am most interested in projects at the intersection of exoplanet astronomy and data science in the data-limited regime.  A common theme in my work has been fusing dynamical constraints from varied observational techniques in order to study extrasolar planets with a focus on planetary dynamics and architectures.
 
-I am the lead developer of the [**democratic detrender**](https://github.com/dyahalomi/democratic_detrender), a Python package for detrending time-series stellar photometry. The code has been extensively tested (>1000 stars) in Kepler and TESS light curves. The **democratic detrender** uses four different detrending methods for each light curve (polynomial autocorrelation minimization, cosine filtering
-autocorrelation minimization, gaussian processes, and local polynomial detrending) and then marginalizes over the four detrending methods by taking the median value of each data point. A more formal write-up and tutorial are forthcoming for the code.
+I am the lead developer of the [**democratic detrender**](https://github.com/dyahalomi/democratic_detrender), a Python package for detrending time-series stellar photometry. The code has been extensively tested (>1000 stars) in Kepler and TESS light curves. A formal write-up and tutorial are forthcoming for the code.
 
 
 
