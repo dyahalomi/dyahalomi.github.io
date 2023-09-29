@@ -45,7 +45,8 @@ Determining the Mass and Radius of the White Dwarfs in Four Kepler Self-Lensing 
 - Yassine Abaakil, Columbia University Undergraduate.
 
 <br>
-*High School Students (through Harvard SRMP):*
+*High School Students (through Harvard SRMP):* <br>
+
 Identifying Transit Timing Variations in Planetary Hierarchical Triples, 2022 – 2023. 
 - Farai Sundai, CRLS 10th Grade.
 - Jiajing Liu, CRLS 12th Grade, Currently a University of Minnesota Undergraduate.
