@@ -67,7 +67,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br>
 _Advisor: [Prof. Paul Schechter](https://space.mit.edu/people/schechter-paul-l/)_ <br>
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ <br>
 
-<img align="center" src="../images/iPTF16geu_final_fig.png" width=500>
+<img align="center" src="../images/iPTF16geu_final_figure.png" width=500>
 
 
 
