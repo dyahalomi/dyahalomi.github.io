@@ -11,7 +11,7 @@ author_profile: true
 ## Harvard Science Research Mentoring Program (SRMP)
 <img align="right" src="../images/*SRMP.PNG" width=200>
 
-I had tremendous mentors who encouraged me to pursue my interests in astronomy and astrophyiscs, and I believe that the best way to encourage students to follow their scientific curiosities is to provide them opportunities to and help guide them through conducting real research and show them that they can make meaningful contributions to scientific discovery. I also have become a better scientist through mentorship, as I learn through teaching and am reminded of the passion and deep interest that first brought me to astronomy.​ <br>
+Early on, I had tremendous mentors who encouraged me to pursue my interests in astronomy and astrophyiscs, and I believe that the best way to encourage students to follow their scientific curiosities is to provide them opportunities to and help guide them through conducting real research and show them that they can make meaningful contributions to scientific discovery. I also have become a better scientist through mentorship, as I learn through teaching and am reminded of the passion and deep interest that first brought me to astronomy.​ <br>
 
 I have been actively involved in the mentorship of high school research projects for students from underserved communities since 2018. The [Harvard SRMP](https://projects.iq.harvard.edu/shrimp/home) is a program in which 10-15 high school students from the public Cambridge Ridge and Latin School conduct research projects with scientists at the CfA and MIT. <br>
 
