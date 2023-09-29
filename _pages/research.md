@@ -42,9 +42,15 @@ _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abst
 _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 
 
-
-
 <img align="right" src="../images/solar_system_hunting_results.png" height=500>
+
+Earth-mass exoplanets on year-long orbits and cool gas giants (CGG) on decade-long orbits lie at the edge of current detection limits. The Terra Hunting Experiment (THE) will take nightly radial velocity (RV) observations on HARPS3 of at least 40 bright nearby G and K dwarfs for 10 years, with a target 1σ measurement error of ~0.3 m/s, in search of exoplanets that are Earth-like in mass and temperature. <br>
+
+However, RV observations can only provide minimum mass estimates, due to the mass-inclination degeneracy. Astrometric observations of these same stars, with sufficient precision, could break this degeneracy. Gaia will soon release ~100-200 astrometric observations of the THE stars with a 10 year baseline and ~34.2 μas 1σ along-scan measurement error.  The Nancy Grace Roman Space Telescope will be capable of precision astrometry using its wide field imager (target ~5-20 μas 1σ measurement error for bright stars) and could extend the astrometric observational baseline to ~25 years. We simulate and model an observing program that combines data from these three telescopes. 
+
+We found that (1) THE RVs and Gaia astrometry can detect Earth-like and CGG-like exoplanets around bright Sun-like stars at 10 parsecs and that (2) adding Roman astrometry improves the detection precision for CGG masses and periods by a factor up to ~10 and ~4, respectively. Such a survey could provide insight into the prevalence of Solar System analogs, exoplanet architectures reminiscent of the mass and orbital separation hierarchy of our Solar System, for the nearest Sun-like stars.
+
+
 
 
 ## The Democratic Detrender
