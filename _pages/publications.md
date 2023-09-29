@@ -32,12 +32,9 @@ I contributed ideas, wrote code, ran code, analyzed results, and/or wrote part o
 
 4. Grunblatt, S. et al. **including Yahalomi D. A.** ``Roman CCS White Paper: Adding Fields Hosting Globular Clusters To The Galactic Bulge Time Domain Survey.'' White Paper, arXiv:2306.10647 (2023). <br>
 
-
 3. Kipping, D. and **Yahalomi D. A.** ``A search for transit timing variations within the exomoon corridor using Kepler data.'' Monthly Notices of the Royal Astronomical Society, 518, 3 (2023). <br>
 
-
 2. Christian, S. et al. **including Yahalomi D. A.** ``A Possible Alignment Between the Orbits of Planetary Systems and their Visual Binary Companions.'' The Astronomical Journal, 163, 5 (2022). <br>
-
 
 1. Palatnick S., Kipping D., and **Yahalomi D. A.** ``Validation of HD 183579b Using Archival Radial Velocities: A Warm Neptune Orbiting a Bright Solar Analog.'' The Astrophysical Journal Letters, 909, 1 (2021). <br>
 
