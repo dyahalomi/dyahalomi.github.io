@@ -24,7 +24,7 @@ I have been lucky to serve in many roles in my time with the Harvard SRMP: <br>
 
 <p float="left" align="center">
   <img src="../images/srmp_team_2023.jpg" width="250" />
-  <img src="../images/*SRMP.png" width="250" />
+  <img src="../images/*SRMP.PNG" width="250" />
   <img src="../images/telescopes_2023.jpg" width="250" />
 </p>
 
