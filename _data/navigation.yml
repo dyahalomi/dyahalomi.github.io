@@ -1,16 +1,16 @@
 # main links links
 main:
 
-  - title: "research"
+  - title: "Research"
     url: /research/  
     
-  - title: "publications"
+  - title: "Publications"
     url: /publications/
     
   - title: "CV"
     url: /dyahalomiCV.pdf
 
-  - title: "outreach"
+  - title: "Outreach"
     url: /outreach/
     
   - title: "TESS"
