@@ -21,7 +21,7 @@ I am passionate about mentoring younger scientists. I have been lucky to be invo
 
 ## Research Interests
 
-<img align="right" src="../images/favicon.ico" width=300>
+<img align="center" src="../images/favicon.ico" width=300>
 
 
 My research focuses on **exoplanets** and the stars that they orbit. An exoplanet (which is short for extrasolar planet) is any planet outside of our solar system.
