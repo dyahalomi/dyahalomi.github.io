@@ -15,11 +15,12 @@ For a brief summary of these projects, see below:
 
 ## "Killing" the Moon Hypothesis in the Kepler-1513b System
 _Advisor: [Prof. David Kipping](http://davidkipping.co.uk/) <br>
-_Paper: to be posted shortly, accepted in MNRAS (09/2023)_<br>
+_Paper: to be posted shortly, accepted in MNRAS (09/2023) <br>
+_Code: on [GitHub](https://github.com/dyahalomi/Kepler1513) <br>
 
 We performed model selection on the TTVs observed in Kepler-1513b using follow-up ground-based and space (TESS) observations, and found that the complete TTV signal adding in two more transits a ~decade later was no longer consistent with the moon hypothesis. <br>
 
-Usting nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiNest), we modeled the TTVs with N-body simulations for the planet-planet model with [SWIFT](https://www.boulder.swri.edu/~hal/swift.html) and a photodynamical planet-moon model with [LUNA](https://arxiv.org/abs/1105.3499). We find that the planet-moon model is inconsistent with one the two new transit time observations at the ~3-σ level. <br>
+Usting nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiNest), we modeled the TTVs with N-body simulations for the planet-planet model with [SWIFT](https://www.boulder.swri.edu/~hal/swift.html) and a photodynamical planet-moon model with [LUNA](https://arxiv.org/abs/1105.3499). We find that the planet-moon model is inconsistent with one the two new transit time observations at the ~3-σ level. The main figure from this paper, showing this results, can be seen below. For more details, see the full [paper](LINK) and the [code](https://github.com/dyahalomi/Kepler1513). <br>
 
 <img align="center" src="../images/koi3678_ttvs_final.png">
 
