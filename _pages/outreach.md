@@ -15,6 +15,8 @@ Early on, I had tremendous mentors who encouraged me to pursue my interests in a
 
 I have been actively involved in the mentorship of high school research projects for students from underserved communities since 2018. The [Harvard SRMP](https://projects.iq.harvard.edu/shrimp/home) is a program in which 10-15 high school students from the public Cambridge Ridge and Latin School conduct research projects with scientists at the CfA and MIT. <br>
 
+I am in the process of developing a similar program at Columbia, with an anticipate start in Fall 2024.
+
 I have been lucky to serve in many roles in my time with the Harvard SRMP: <br>
 - Co-Director of the program from 2020-2022
 - Project Mentor (3 students studying exoplanet TTVs) from 2022-2023
