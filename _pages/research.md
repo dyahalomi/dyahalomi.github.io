@@ -23,7 +23,7 @@ _Paper: to be posted shortly // accepted in MNRAS (09/2023)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/Kepler1513)_ <br>
 
 
-<img align="right" src="../images/koi3678_ttvs_final.png" height=300>
+<img align="right" src="../images/koi3678_ttvs_final.png" width=500>
 
 We performed model selection (planet-planet vs. planet-moon vs. stellar activity) on the TTVs observed in Kepler-1513b using follow-up ground-based and space (TESS) observations. We found that the complete TTV signal, including two additional transit observations, a ~decade since the last Kepler observation, was inconsistent with both the planet-moon and the stellar activity hypothesis and was consistent with an external perturbing non-transiting planet near the 5:1 mean motion reference (MMR). <br>
 
@@ -42,7 +42,7 @@ _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abst
 _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 
 
-<img align="right" src="../images/solar_system_hunting_results.png" height=500>
+<img align="right" src="../images/solar_system_hunting_results.png" width=500>
 
 Earth-mass exoplanets on year-long orbits and cool gas giants (CGG) on decade-long orbits lie at the edge of current detection limits. The Terra Hunting Experiment (THE) will take nightly radial velocity (RV) observations on HARPS3 of at least 40 bright nearby G and K dwarfs for 10 years, with a target 1σ measurement error of ~0.3 m/s, in search of exoplanets that are Earth-like in mass and temperature. <br>
 
@@ -76,7 +76,7 @@ _Advisor: [Prof. David Latham](https://pweb.cfa.harvard.edu/people/david-latham)
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ // published in ApJ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br> 
 
-<img align="right" src="../images/WDmassVradius_Brewer.jpg" height=300>
+<img align="right" src="../images/WDmassVradius_Brewer.jpg" width=300>
 
 I also led a follow-up study of KOI-3278, the first discovered self-lensing binary (Kruse and Agol, 2014). In the paper, we presented independent Einsteinian and Newtonian gravitational models for the system and showed that the respective estimates for the white dwarf mass in KOI-3278 agreed within 5.2%. We also presented a joint Einsteinian and Newtonian model that allowed us to remove white dwarf evolution models and assumptions on the white dwarf mass-radius relation. Doing so provided a model independent test of the mass-radius relation and thus white dwarf structure models. ​​ <br>
 
@@ -93,7 +93,7 @@ There was a press release for this paper, which can be found [here](https://www.
 _Advisor: [Prof. Paul Schechter](https://space.mit.edu/people/schechter-paul-l/)_ <br>
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ // published in MIT Journal of Undergraduate Research <br>
 
-<img align="right" src="../images/iPTF16geu_final_figure.png" height=300>
+<img align="right" src="../images/iPTF16geu_final_figure.png" width=300>
 
 As an undergraduate at MIT, I led an investigation into the micro-lensing of the first discovered, strongly lensed type Ia supernova, iPTF16geu. This system cause commotion when it was discovered, as its standard candle nature plus time delay values, could theoretically lead to a constraint of the Hubble parameter. However, the macro-models published by More et al. 2017 showed significant flux ratio anomolies with the observations of the four images. I constructed a Monte-Carlo simulation, in Python, which showed that the likelihood for micro-lensing to cause these flux ratio anomalies between observations and macro-models was ~3/1000. I then showed that even if the macro-models fit perfectly, the microlensing probability density functions create a probability distribution on the intrinsic brightness with a full width half maximum of 0.73 magnitudes. As such, the error for the standard candle brightness is quite large. This reduces the utility of the standard candle nature of type Ia supernovae. This project led to a first author paper, and cover article, in the MIT Undergraduate Research Journal Fall 2017, which has 30 academic citations (as of September 2023). <br>
 
