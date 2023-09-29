@@ -22,7 +22,7 @@ We performed model selection (planet-planet vs. planet-moon vs. stellar activity
 
 Using nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiNest), we modeled the TTVs with N-body simulations for the planet-planet model with [SWIFT](https://www.boulder.swri.edu/~hal/swift.html) and a photodynamical planet-moon model with [LUNA](https://arxiv.org/abs/1105.3499). We find that the planet-moon model is inconsistent with one the two new transit time observations at the ~3-σ level. We also show that the observed stellar activity (via stellar rotational period and slope of the LC around transits) is inconsistent with causing the observed TTVs. The main figure from this paper, showing this results, can be seen below. For more details, see the full [paper](LINK) and the [code](https://github.com/dyahalomi/Kepler1513). <br>
 
-<img align="center" src="../images/koi3678_ttvs_final.png">
+<img align="center" src="../images/koi3678_ttvs_final.png" width=500>
 
 
 
@@ -36,7 +36,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 
 
 
-<img align="center" src="../images/solar_system_hunting_results.png">
+<img align="center" src="../images/solar_system_hunting_results.png" width=500>
 
 
 ## The Democratic Detrender
