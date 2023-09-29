@@ -26,7 +26,7 @@ I am passionate about mentoring younger scientists. I have been lucky to be invo
 
 My research focuses on **exoplanets** and the stars that they orbit. An exoplanet (which is short for extrasolar planet) is any planet outside of our solar system.
 
-I am most interested in projects at the intersection of exoplanet astronomy and data science in the data-limited regime.  A common theme in my work has been fusing dynamical constraints from varied observational techniques in order to study extrasolar planets with a focus on planetary dynamics and architectures.
+I am most interested in projects at the intersection of exoplanet astronomy and data science in the data-limited regime.  A common theme in my work has been fusing dynamical constraints from varied observational techniques in order to study extrasolar planets, particularly in multi-planet systems, with a focus on planetary dynamics and architectures.
 
 I am the lead developer of the [`democratic detrender`](https://github.com/dyahalomi/democratic_detrender), a Python package for detrending time-series stellar photometry. The code has been extensively tested (>1000 stars) on Kepler and TESS light curves. A formal write-up and tutorial are forthcoming for the code.
 
