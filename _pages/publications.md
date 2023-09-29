@@ -22,11 +22,6 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 
 
-
-
-<br>
-<br>
-
 ## Independent Significant Contribution
 
 I contributed ideas, wrote code, ran code, analyzed results, and/or wrote part of the manuscript. <br>
@@ -40,8 +35,6 @@ I contributed ideas, wrote code, ran code, analyzed results, and/or wrote part o
 
 (1) Palatnick S., Kipping D., and **Yahalomi D. A.** ``Validation of HD 183579b Using Archival Radial Velocities: A Warm Neptune Orbiting a Bright Solar Analog.'' The Astrophysical Journal Letters, 909, 1 (2021). <br>
 
-<br>
-<br>
 
 ## TESS Collaboration Papers 
 
