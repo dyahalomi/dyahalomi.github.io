@@ -47,7 +47,11 @@ _Code: on [GitHub](https://github.com/dyahalomi/democratic_detrender)_ <br>
 
 
 
-
+The democratic_detrender uses four different detrending methods in detrending stellar photometry:
+• CoFiAM or Cosine Filtering with Autocorrelation Minimisation builds on cosine filtering approach used to study CoRoT data (Mazeh & Faigler 2010). In CoFiAM, we train 30 models with N cosines in our fit, where N ranges from 1 to 30, and at each epoch pick the cosine filter that leads to the least correlated light curve via the Durbin- Watson statistic (Durbin & Watson 1950; Kipping et al. 2013).
+• polyAM or Polynomial detrending with Autocorrelation Min- imisation follows a similar process to CoFiAM, except we train 30 models with polynomial models as the basis function. Polynomial filtering is a common method for stellar activity detrending (Fab- rycky et al. 2012; Gautier et al. 2012; Giles et al. 2018). In polyAM, the 30 different bases models are 1st- to 30th-order polynomials. For each epoch, as above, the least correlated light curve via the Durbin- Watson statistic (Durbin & Watson 1950; Kipping et al. 2013) is chosen.
+• local method again uses 1st- to 30th order polynomials, but the local detrended light curve is selected via the lowest Bayesian Information Criterion (Schwarz 1978) computed on the data within six transit durations of the time of mid-transit. This a fairly typical de- trending method for the analysis of short-period transiters (Sandford & Kipping 2017).
+• GPorGaussianprocessregression,asthenamesuggests,usesa Gaussian process to detrend the stellar activity. We used a quasiperi- odic Gaussian process, as it has been shown that it is possible to model stellar activity of a rotating star using a quasiperiodic kernel (Angus et al. 2017). Specifically, we used a SHOTerm kernel from celerite2 via the exoplanet package, which is a stochastically- driven, damped harmonic oscillator (exoplanet, Foreman-Mackey et al. 2021), (celerite2, Foreman-Mackey et al. 2017; Foreman- Mackey 2018).
 
 
 
@@ -60,7 +64,11 @@ _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br>
 
 <img align="right" src="../images/WDmassVradius_Brewer.jpg" width=500>
 
+I also led a follow-up study of KOI-3278, the first discovered self-lensing binary (Kruse and Agol, 2014). In the paper, we presented independent Einsteinian and Newtonian gravitational models for the system and showed that the respective estimates for the white dwarf mass in KOI-3278 agreed within 5.2%. We also presented a joint Einsteinian and Newtonian model that allowed us to remove white dwarf evolution models and assumptions on the white dwarf mass-radius relation. Doing so provided a model independent test of the mass-radius relation and thus white dwarf structure models. ​​
 
+We are hopeful that further studies of the white dwarf in KOI-3278, as well as four other discovered white dwarf self-lensing systems, in conjunction with UV follow-up observations will provide a test of white dwarf structure models. I am currently working with Columbia Undergraduate student, Yassine Abaakil, on a project reproducing this work for the other four known Kepler self-lensing binaries. 
+
+There was a press release for this paper, which can be found [here](https://www.cfa.harvard.edu/news/2019-16).
 
 
 
@@ -71,5 +79,8 @@ _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abst
 
 <img align="right" src="../images/iPTF16geu_final_figure.png" width=500>
 
+As an undergraduate at MIT, I led an investigation into the micro-lensing of the first discovered, strongly lensed type Ia supernova, iPTF16geu. This system cause commotion when it was discovered, as its standard candle nature plus time delay values, could theoretically lead to a constraint of the Hubble parameter. However, the macro-models published by More et al. 2017 showed significant flux ratio anomolies with the observations of the four images. I constructed a Monte-Carlo simulation, in Python, which showed that the likelihood for micro-lensing to cause these flux ratio anomalies between observations and macro-models was ~3/1000. I then showed that even if the macro-models fit perfectly, the microlensing probability density functions create a probability distribution on the intrinsic brightness with a full width half maximum of 0.73 magnitudes. As such, the error for the standard candle brightness is quite large. This reduces the utility of the standard candle nature of type Ia supernovae. This project led to a first author paper, and cover article, in the MIT Undergraduate Research Journal Fall 2017, which has 30 academic citations (as of September 2023). 
+
+I then built on this work, leading three other micro-lensing projects that took advantage of the code that I had generated, culminating in my senior thesis, entitled “Statistical Analyses of Gravitational Microlensing Probability Densities.”
 
 
