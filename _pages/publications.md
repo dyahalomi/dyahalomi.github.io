@@ -8,7 +8,8 @@ author_profile: true
 An up-to-date list of refereed publications can be found on [NASA/ADS](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22yahalomi%2C%20d%22%20&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
 
 
-**First Author Publications** <br>
+**First Author Publications** 
+<br>
 
 (4) **Yahalomi, D. A.** et al. ``Not So Fast Kepler-1513: A Perturbing Planetary Interloper in the Exomoon Corridor.'' Monthly Notices of the Royal Astronomical Society, accepted, 09/2023. <br>
 
@@ -24,6 +25,8 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 
 
+<br>
+<br>
 
 **Independent Significant Contribution** <br>
 
@@ -38,6 +41,8 @@ I contributed ideas, wrote code, ran code, analyzed results, and/or wrote part o
 
 (1) Palatnick S., Kipping D., and **Yahalomi D. A.** ``Validation of HD 183579b Using Archival Radial Velocities: A Warm Neptune Orbiting a Bright Solar Analog.'' The Astrophysical Journal Letters, 909, 1 (2021). <br>
 
+<br>
+<br>
 
 **TESS Collaboration Papers** <br>
 
