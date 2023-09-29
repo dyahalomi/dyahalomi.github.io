@@ -24,11 +24,11 @@ I have been lucky to serve in many roles in my time with the Harvard SRMP: <br>
 - Associate Director from 2020-2021
 - Head of Observing from 2018-2020
 
-<p float="left" align="center">
-  <img src="../images/srmp_team_2023.jpg" height="250" />
-  <img src="../images/SRMP_Galileoscopes_2020.JPG" height="250" />
-  <img src="../images/telescopes_2023.jpg" height="250" />
-</p>
+<div style="display: flex; justify-content: center; height: 250px;">
+  <img src="../images/srmp_team_2023.jpg" style="height: 100%; object-fit: cover; margin-right: 10px;" />
+  <img src="../images/SRMP_Galileoscopes_2020.JPG" style="height: 100%; object-fit: cover; margin-right: 10px;" />
+  <img src="../images/telescopes_2023.jpg" style="height: 100%; object-fit: cover;" />
+</div>
 
 
 
