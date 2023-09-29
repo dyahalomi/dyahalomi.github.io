@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+**Astronomy at the CfA on the TESS Science Team: 2018-2020**
+
 <img align="center" src="../images/tess.gif">
 
 
