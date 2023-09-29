@@ -17,7 +17,7 @@ I have been actively involved in the mentorship of high school research projects
 
 I have been lucky to serve in many roles in my time with the Harvard SRMP: <br>
 - Co-Director of the program from 2020-2022
-- Project Mentor (3 students studying TTVs of hierarchical triple planetary systems) from 2022-2023
+- Project Mentor (3 students studying exoplanet TTVs) from 2022-2023
 - Project Mentor (3 students studying self-lensing binaries) from 2020-2021 <br>
 - Associate Director from 2020-2021
 - Head of Observing from 2018-2020
