@@ -21,9 +21,6 @@ I am passionate about mentoring younger scientists. I have been lucky to be invo
 
 ## Research Interests
 
-<img align="center" src="../images/favicon.ico" width=300>
-
-
 My research focuses on **exoplanets** and the stars that they orbit. An exoplanet (which is short for extrasolar planet) is any planet outside of our solar system.
 
 I am most interested in projects at the intersection of exoplanet astronomy and data science in the data-limited regime.  A common theme in my work has been fusing dynamical constraints from varied observational techniques in order to study extrasolar planets, particularly in multi-planet systems, with a focus on planetary dynamics and architectures.
