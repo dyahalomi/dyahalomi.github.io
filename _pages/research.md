@@ -47,13 +47,15 @@ _Code: on [GitHub](https://github.com/dyahalomi/democratic_detrender)_ <br>
 
 
 
-The democratic_detrender uses four different detrending methods in detrending stellar photometry: <br>
+I am the lead developer on an open source Python code package, called the `democratic_detrender`, that implements democratic (also previously called method marginalized) detrending. To summarize, democratic detrending uses several different detrending algorithms, and then takes the median solution between the detrending methods for each data point (and adds in quadrature to the errors the median absolute deviation between the detrending solutions). <br>
+
+In the package, we currently use four distinct detrending algorithms, which have each been shown in the literature to be efficient and accurate models for stellar noise: **CoFiAM**, **polyAM**, **local**, and **GP**. For a more detailed description of each detrending algorithm, see below and for a similar application see \citet{Kipping2022}: <br>
 - **CoFiAM** or Cosine Filtering with Autocorrelation Minimisation builds on cosine filtering approach used to study CoRoT data (Mazeh & Faigler 2010). In CoFiAM, we train 30 models with N cosines in our fit, where N ranges from 1 to 30, and at each epoch pick the cosine filter that leads to the least correlated light curve via the Durbin- Watson statistic (Durbin & Watson 1950; Kipping et al. 2013). <br>
 - **polyAM** or Polynomial detrending with Autocorrelation Min- imisation follows a similar process to CoFiAM, except we train 30 models with polynomial models as the basis function. Polynomial filtering is a common method for stellar activity detrending (Fab- rycky et al. 2012; Gautier et al. 2012; Giles et al. 2018). In polyAM, the 30 different bases models are 1st- to 30th-order polynomials. For each epoch, as above, the least correlated light curve via the Durbin- Watson statistic (Durbin & Watson 1950; Kipping et al. 2013) is chosen. <br>
 - **local** method again uses 1st- to 30th order polynomials, but the local detrended light curve is selected via the lowest Bayesian Information Criterion (Schwarz 1978) computed on the data within six transit durations of the time of mid-transit. This a fairly typical detrending method for the analysis of short-period transiters (Sandford & Kipping 2017).
-- **GP** or Gaussian process regression,as the name suggests, uses a Gaussian process to detrend the stellar activity. We used a quasiperiodic Gaussian process, as it has been shown that it is possible to model stellar activity of a rotating star using a quasiperiodic kernel (Angus et al. 2017). Specifically, we used a SHOTerm kernel from celerite2 via the exoplanet package, which is a stochastically-driven, damped harmonic oscillator (exoplanet, Foreman-Mackey et al. 2021), (celerite2, Foreman-Mackey et al. 2017; Foreman- Mackey 2018).
+- **GP** or Gaussian process regression,as the name suggests, uses a Gaussian process to detrend the stellar activity. We used a quasiperiodic Gaussian process, as it has been shown that it is possible to model stellar activity of a rotating star using a quasiperiodic kernel (Angus et al. 2017). Specifically, we used a SHOTerm kernel from celerite2 via the exoplanet package, which is a stochastically-driven, damped harmonic oscillator (exoplanet, Foreman-Mackey et al. 2021), (celerite2, Foreman-Mackey et al. 2017; Foreman- Mackey 2018). <br>
 
-
+A formal write-up, API documentation, and a tutorial for the `democratic_detrender` is forthcoming.
 
 
 
