@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img align="right" src="../images/favicon.ico">
+<img align="right" src="../images/favicon.ico" width=500>
 
 
 I am a graduate student at Columbia University in the Department of Astronomy & Astrophysics. I received my bachelor's from MIT in Physics with a Concentration in Astronomy and with Minors in Computer Science and Comparitive Media Studies in 2018. After MIT, I spent two years working as a part of the TESS Science Team at the Harvard & Smithsonian Center for Astrophysics. I am an [LSSTC DSFP Fellow](https://www.lsstcorporation.org/lincc/fellowship_program) and an [AAS NOLP Fellow](https://aas.org/nolp).
