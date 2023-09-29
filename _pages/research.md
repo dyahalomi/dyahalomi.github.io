@@ -32,7 +32,7 @@ Using nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiN
 
 ## Solar System Hunting
 _Advisors: [Prof. Ruth Angus](https://ruthangus.github.io/) & [Prof. David Spergel](https://www.astro.princeton.edu/~dns/)_ <br>
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abstract)_<br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abstract) under review at AAS Journals_<br>
 _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 
 
@@ -61,7 +61,7 @@ A formal write-up, API documentation, and a tutorial for the `democratic_detrend
 
 ## Determining the Mass and Radius for the White Dwarf in KOI-3278
 _Advisor: [Prof. David Latham](https://pweb.cfa.harvard.edu/people/david-latham)_ <br>
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ published in ApJ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br> 
 
 <img align="right" src="../images/WDmassVradius_Brewer.jpg" width=500>
@@ -77,7 +77,7 @@ There was a press release for this paper, which can be found [here](https://www.
 
 ## Gravitational Microlensing of the Strongly Lensed Type IA Supernova iPTF16geu
 _Advisor: [Prof. Paul Schechter](https://space.mit.edu/people/schechter-paul-l/)_ <br>
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ published in MIT Journal of Undergraduate Research <br>
 
 <img align="right" src="../images/iPTF16geu_final_figure.png" width=500>
 
