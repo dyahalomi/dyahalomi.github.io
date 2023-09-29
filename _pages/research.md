@@ -22,12 +22,14 @@ _Advisor: [Prof. David Kipping](http://davidkipping.co.uk/)_ <br>
 _Paper: to be posted shortly // accepted in MNRAS (09/2023)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/Kepler1513)_ <br>
 
-<img align="right" src="../images/koi3678_ttvs_final.png" width=500>
 
 
 We performed model selection (planet-planet vs. planet-moon vs. stellar activity) on the TTVs observed in Kepler-1513b using follow-up ground-based and space (TESS) observations. We found that the complete TTV signal, including two additional transit observations, a ~decade since the last Kepler observation, was inconsistent with both the planet-moon and the stellar activity hypothesis and was consistent with an external perturbing non-transiting planet near the 5:1 mean motion reference (MMR). <br>
 
 Using nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiNest), we modeled the TTVs with N-body simulations for the planet-planet model with [SWIFT](https://www.boulder.swri.edu/~hal/swift.html) and a photodynamical planet-moon model with [LUNA](https://arxiv.org/abs/1105.3499). We find that the planet-moon model is inconsistent with one the two new transit time observations at the ~3-σ level. We also show that the observed stellar activity (via stellar rotational period and slope of the LC around transits) is inconsistent with causing the observed TTVs. The main figure from this paper, showing this results, can be seen below. For more details, see the full [paper](LINK) and the [code](https://github.com/dyahalomi/Kepler1513). <br>
+
+<img align="center" src="../images/koi3678_ttvs_final.png" width=500>
+
 
 
 
@@ -42,7 +44,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 
 
 
-<img align="right" src="../images/solar_system_hunting_results.png" width=500>
+<img align="center" src="../images/solar_system_hunting_results.png" width=500>
 
 
 ## The Democratic Detrender
@@ -68,13 +70,14 @@ _Advisor: [Prof. David Latham](https://pweb.cfa.harvard.edu/people/david-latham)
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ // published in ApJ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br> 
 
-<img align="right" src="../images/WDmassVradius_Brewer.jpg" width=500>
 
 I also led a follow-up study of KOI-3278, the first discovered self-lensing binary (Kruse and Agol, 2014). In the paper, we presented independent Einsteinian and Newtonian gravitational models for the system and showed that the respective estimates for the white dwarf mass in KOI-3278 agreed within 5.2%. We also presented a joint Einsteinian and Newtonian model that allowed us to remove white dwarf evolution models and assumptions on the white dwarf mass-radius relation. Doing so provided a model independent test of the mass-radius relation and thus white dwarf structure models. ​​ <br>
 
 We are hopeful that further studies of the white dwarf in KOI-3278, as well as four other discovered white dwarf self-lensing systems, in conjunction with UV follow-up observations will provide a test of white dwarf structure models. I am currently working with Columbia Undergraduate student, Yassine Abaakil, on a project reproducing this work for the other four known Kepler self-lensing binaries. <br>
 
 There was a press release for this paper, which can be found [here](https://www.cfa.harvard.edu/news/2019-16).
+
+<img align="center" src="../images/WDmassVradius_Brewer.jpg" width=500>
 
 
 
@@ -84,10 +87,10 @@ There was a press release for this paper, which can be found [here](https://www.
 _Advisor: [Prof. Paul Schechter](https://space.mit.edu/people/schechter-paul-l/)_ <br>
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ // published in MIT Journal of Undergraduate Research <br>
 
-<img align="right" src="../images/iPTF16geu_final_figure.png" width=500>
 
 As an undergraduate at MIT, I led an investigation into the micro-lensing of the first discovered, strongly lensed type Ia supernova, iPTF16geu. This system cause commotion when it was discovered, as its standard candle nature plus time delay values, could theoretically lead to a constraint of the Hubble parameter. However, the macro-models published by More et al. 2017 showed significant flux ratio anomolies with the observations of the four images. I constructed a Monte-Carlo simulation, in Python, which showed that the likelihood for micro-lensing to cause these flux ratio anomalies between observations and macro-models was ~3/1000. I then showed that even if the macro-models fit perfectly, the microlensing probability density functions create a probability distribution on the intrinsic brightness with a full width half maximum of 0.73 magnitudes. As such, the error for the standard candle brightness is quite large. This reduces the utility of the standard candle nature of type Ia supernovae. This project led to a first author paper, and cover article, in the MIT Undergraduate Research Journal Fall 2017, which has 30 academic citations (as of September 2023). <br>
 
 I then built on this work, leading three other micro-lensing projects that took advantage of the code that I had generated, culminating in my senior thesis, entitled “Statistical Analyses of Gravitational Microlensing Probability Densities.”
 
 
+<img align="center" src="../images/iPTF16geu_final_figure.png" width=500>
