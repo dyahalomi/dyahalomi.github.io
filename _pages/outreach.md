@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Harvard Science Research Mentoring Program (SRMP)
+## Science Research Mentoring Program (SRMP)
 <img align="right" src="../images/*SRMP.PNG" width=200>
 
 Early on, I had tremendous mentors who encouraged me to pursue my interests in astronomy and astrophyiscs, and I believe that the best way to encourage students to follow their scientific curiosities is to provide them opportunities to and help guide them through conducting real research and show them that they can make meaningful contributions to scientific discovery. I also have become a better scientist through mentorship, as I learn through teaching and am reminded of the passion and deep interest that first brought me to astronomy.​ <br>
