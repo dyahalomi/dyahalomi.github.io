@@ -42,7 +42,7 @@ I have been lucky to serve in many roles in my time with the Harvard SRMP: <br>
 *Undergraduate Students:* <br>
 
 Determining the Mass and Radius of the White Dwarfs in Four Kepler Self-Lensing Binaries, 2023 – . 
-– Yassine Abaakil, Columbia University Undergraduate.
+- Yassine Abaakil, Columbia University Undergraduate.
 
 <br>
 *High School Students (through Harvard SRMP):*
