@@ -15,7 +15,7 @@ Early on, I had tremendous mentors who encouraged me to pursue my interests in a
 
 I have been actively involved in the mentorship of high school research projects for students from underserved communities since 2018. The [Harvard SRMP](https://projects.iq.harvard.edu/shrimp/home) is a program in which 10-15 high school students from the public Cambridge Ridge and Latin School conduct research projects with scientists at the CfA and MIT. <br>
 
-There are various ways to evaluate the success of such a program, all inherantly have their own flaws. I am most excited and proud by two facts: (1) the number of applicants for the program grew from 16 students to 42 students and (2) research the SRMP program has been recognized via refereed co-authorship of refereed papers in (at least) 6 cases!
+There are various ways to evaluate the success of such a program, and all inherantly have their own flaws. I am most excited and proud by two facts: (1) the number of applicants for the program grew from 16 students to 42 students and (2) research the SRMP program has been recognized via refereed co-authorship of refereed papers in (at least) 6 cases!
 
 I am in the process of developing a similar program at Columbia, with an anticipate start in Fall 2024. <br>
 
