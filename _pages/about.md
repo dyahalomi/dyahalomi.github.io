@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I am a graduate student at Columbia University in the Department of Astronomy & Astrophysics. I received my bachelor's from MIT in Physics with a Concentration in Astronomy and with Minors in Computer Science and Comparitive Media Studies in 2018. After MIT, I spent two years working as a part of the TESS Science Team at the Harvard & Smithsonian Center for Astrophysics. I am an [LSSTC DSFP Fellow](https://www.lsstcorporation.org/lincc/fellowship_program) and an [AAS NOLP Fellow](https://aas.org/nolp).
+I am a PhD student at Columbia University in the Department of Astronomy & Astrophysics. I received my bachelor's from MIT in Physics with a Concentration in Astronomy and with Minors in Computer Science and Comparitive Media Studies in 2018. After MIT, I spent two years working as a part of the TESS Science Team at the Harvard & Smithsonian Center for Astrophysics. I am an [LSSTC DSFP Fellow](https://www.lsstcorporation.org/lincc/fellowship_program) and an [AAS NOLP Fellow](https://aas.org/nolp).
 
 
 I am passionate about mentoring younger scientists. I have been lucky to be involved with mentoring high school research project through the [Harvard SRMP](https://projects.iq.harvard.edu/shrimp) since 2018, and I served as Co-Director of the program from 2021-2023. I am currently trying to develop a similar program at Columbia, with an anticipate start in Fall 2024.
