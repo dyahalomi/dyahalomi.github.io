@@ -19,7 +19,7 @@ _Paper: to be posted shortly, accepted in MNRAS (09/2023)_<br>
 
 We performed model selection on the TTVs observed in Kepler-1513b using follow-up ground-based and space (TESS) observations, and found that the complete TTV signal adding in two more transits a ~decade later was no longer consistent with the moon hypothesis. <br>
 
-Usting nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiNest), we modeled the TTVs with N-body simulations for the planet-planet model with [SWIFT](https://www.boulder.swri.edu/~hal/swift.html) and a photodynamical planet-moon model with [LUNA](https://arxiv.org/abs/1105.3499). We find that the planet-moon model is inconsistent with one the two new transit time observations at the ~3-\sigma level. <br>
+Usting nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiNest), we modeled the TTVs with N-body simulations for the planet-planet model with [SWIFT](https://www.boulder.swri.edu/~hal/swift.html) and a photodynamical planet-moon model with [LUNA](https://arxiv.org/abs/1105.3499). We find that the planet-moon model is inconsistent with one the two new transit time observations at the ~3-σ level. <br>
 
 <img align="center" src="../images/astero.gif">
 
