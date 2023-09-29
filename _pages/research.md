@@ -18,11 +18,13 @@ _Advisor: [Prof. David Kipping](http://davidkipping.co.uk/)_ <br>
 _Paper: to be posted shortly, accepted in MNRAS (09/2023)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/Kepler1513)_ <br>
 
+<img align="right" src="../images/koi3678_ttvs_final.png" width=500>
+
+
 We performed model selection (planet-planet vs. planet-moon vs. stellar activity) on the TTVs observed in Kepler-1513b using follow-up ground-based and space (TESS) observations. We found that the complete TTV signal, including two additional transit observations, a ~decade since the last Kepler observation, was inconsistent with both the planet-moon and the stellar activity hypothesis and was consistent with an external perturbing non-transiting planet near the 5:1 mean motion reference (MMR). <br>
 
 Using nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiNest), we modeled the TTVs with N-body simulations for the planet-planet model with [SWIFT](https://www.boulder.swri.edu/~hal/swift.html) and a photodynamical planet-moon model with [LUNA](https://arxiv.org/abs/1105.3499). We find that the planet-moon model is inconsistent with one the two new transit time observations at the ~3-σ level. We also show that the observed stellar activity (via stellar rotational period and slope of the LC around transits) is inconsistent with causing the observed TTVs. The main figure from this paper, showing this results, can be seen below. For more details, see the full [paper](LINK) and the [code](https://github.com/dyahalomi/Kepler1513). <br>
 
-<img align="center" src="../images/koi3678_ttvs_final.png" width=500>
 
 
 
@@ -36,7 +38,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 
 
 
-<img align="center" src="../images/solar_system_hunting_results.png" width=500>
+<img align="right" src="../images/solar_system_hunting_results.png" width=500>
 
 
 ## The Democratic Detrender
@@ -56,7 +58,7 @@ _Advisor: [Prof. David Latham](https://pweb.cfa.harvard.edu/people/david-latham)
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br> 
 
-<img align="center" src="../images/WDmassVradius_Brewer.jpg" width=500>
+<img align="right" src="../images/WDmassVradius_Brewer.jpg" width=500>
 
 
 
@@ -67,7 +69,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br>
 _Advisor: [Prof. Paul Schechter](https://space.mit.edu/people/schechter-paul-l/)_ <br>
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ <br>
 
-<img align="center" src="../images/iPTF16geu_final_figure.png" width=500>
+<img align="right" src="../images/iPTF16geu_final_figure.png" width=500>
 
 
 
