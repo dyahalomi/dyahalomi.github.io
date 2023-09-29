@@ -30,7 +30,3 @@ I have been lucky to serve in many roles in my time with the Harvard SRMP: <br>
   <img src="../images/telescopes_2023.jpg" style="height: 100%; object-fit: cover;" />
 </div>
 
-
-
-## Mentorship
-I'm passionate about mentorship at all levels of academia. I have multiple strong female mentors who have guided me throughout my studies, and I encourage women -- especially women of colour -- to surround themselves with people that appreciate your value.
