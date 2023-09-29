@@ -48,7 +48,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/democratic_detrender)_ <br>
 
 
 
-## Deriving an Independent Mass and Radius for the White Dwarf in the Self-Lensing Binary KOI-3278
+## Determining the Mass and Radius for the White Dwarf in KOI-3278
 _Advisor: [Prof. David Latham](https://pweb.cfa.harvard.edu/people/david-latham)_ <br>
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br> 
@@ -57,7 +57,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br>
 
 
 
-## Gravitational Microlensing of the Strongly (Quad-)Lensed Type IA Supernova iPTF16geu
+## Gravitational Microlensing of the Strongly Lensed Type IA Supernova iPTF16geu
 _Advisor: [Prof. Paul Schechter](https://space.mit.edu/people/schechter-paul-l/)_ <br>
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ <br>
 
