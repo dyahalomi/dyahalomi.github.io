@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Work as Astronomer at the CfA on the TESS Science Team: 2018-2020**
+**Astronomer at the CfA on the TESS Science Team: 2018-2020**
 
 <img align="center" src="../images/tess.gif">
 
