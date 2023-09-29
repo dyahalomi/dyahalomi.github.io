@@ -54,7 +54,7 @@ We found that (1) THE RVs and Gaia astrometry can detect Earth-like and CGG-like
 
 
 ## The Democratic Detrender
-_Advisors: [Prof. David Kipping](http://davidkipping.co.uk/)_ <br>
+_Advisor: [Prof. David Kipping](http://davidkipping.co.uk/)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/democratic_detrender)_ <br>
 
 
