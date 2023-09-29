@@ -36,7 +36,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 
 
 
-<img align="center" src="../images/astero.gif">
+<img align="center" src="../images/solar_system_hunting_results.png">
 
 
 ## The Democratic Detrender
@@ -47,7 +47,6 @@ _Code: on [GitHub](https://github.com/dyahalomi/democratic_detrender)_ <br>
 
 
 
-<img align="center" src="../images/astero.gif">
 
 
 
@@ -57,7 +56,10 @@ _Advisor: [Prof. David Latham](https://pweb.cfa.harvard.edu/people/david-latham)
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br> 
 
-<img align="center" src="../images/uranus.gif" width=500>
+<img align="center" src="../images/WDmassVradius_Brewer.jpg" width=500>
+
+
+
 
 
 
@@ -65,7 +67,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br>
 _Advisor: [Prof. Paul Schechter](https://space.mit.edu/people/schechter-paul-l/)_ <br>
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ <br>
 
-<img align="right" src="../images/gw.gif" width=500>
+<img align="center" src="../images/iPTF16geu_final_fig.jpg" width=500>
 
 
 
