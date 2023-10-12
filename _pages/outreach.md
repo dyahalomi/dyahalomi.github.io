@@ -63,4 +63,5 @@ Modeling the Radial Velocities of Four Kepler Self-Lensing Binaries, 2020 – 20
 **As Co-Advisor**<br>
 “Democratically” Detrending TESS M-Dwarfs, Summer 2022.
 - Andrew Zhang, Columbia Undergraduate.
-- Avishi Poddar, Columbia Undergraduate
+- Avishi Poddar, Columbia Undergraduate.
+- Madison Li, Columbia Undergraduate.
