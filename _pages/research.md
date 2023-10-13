@@ -21,7 +21,7 @@ For a brief summary of these projects, see below:
 _Advisor: [Prof. David Kipping](http://davidkipping.co.uk/)_ <br>
 _Paper: to be posted shortly // accepted in MNRAS (09/2023)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/Kepler1513)_ <br>
-_Twitter Thread: [link](https://twitter.com/dyahalomi/status/1711408199025283218) <br>
+_Research Summary: [Twitter Thread](https://twitter.com/dyahalomi/status/1711408199025283218)_ <br>
 
 
 <img align="right" src="../images/koi3678_ttvs_final.png" width=500>
@@ -41,7 +41,7 @@ Using nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiN
 _Advisors: [Prof. Ruth Angus](https://ruthangus.github.io/) & [Prof. David Spergel](https://www.astro.princeton.edu/~dns/)_ <br>
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abstract) // under review at AAS Journals_<br>
 _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
-_Twitter Thread: [link](https://twitter.com/dyahalomi/status/1625113519111675904) <br>
+_Research Summary: [Twitter Thread](https://twitter.com/dyahalomi/status/1625113519111675904) <br>
 
 
 
