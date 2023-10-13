@@ -19,7 +19,7 @@ For a brief summary of these projects, see below:
 
 ## "Killing" the Moon Hypothesis in the Kepler-1513b System
 _Advisor: [Prof. David Kipping](http://davidkipping.co.uk/)_ <br>
-_Paper: to be posted shortly // accepted in MNRAS (09/2023)_ <br>
+_Paper: on [arXiv](https://arxiv.org/abs/2310.03802) // accepted in MNRAS (09/2023)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/Kepler1513)_ <br>
 _Research Summary: [Twitter Thread](https://twitter.com/dyahalomi/status/1711408199025283218)_ <br>
 
