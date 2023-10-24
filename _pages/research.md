@@ -37,7 +37,7 @@ Using nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiN
 
 
 
-## Solar System Hunting
+## Solar System Analog Hunting
 _Advisors: [Prof. Ruth Angus](https://ruthangus.github.io/) & [Prof. David Spergel](https://www.astro.princeton.edu/~dns/)_ <br>
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abstract) // under review at AAS Journals_<br>
 _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
