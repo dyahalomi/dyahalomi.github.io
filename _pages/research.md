@@ -76,7 +76,7 @@ A formal write-up, API documentation, and a tutorial for the `democratic_detrend
 
 ## Determining the Mass and Radius for the White Dwarf in KOI-3278
 _Advisor: [Prof. David Latham](https://pweb.cfa.harvard.edu/people/david-latham)_ <br>
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ // published in ApJ (07/2019) <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract) // published in ApJ (07/2019)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br> 
 
 <img align="right" src="../images/WDmassVradius_Brewer.jpg" width=500>
