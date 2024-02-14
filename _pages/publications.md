@@ -10,9 +10,9 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 ## First Author Publications
 
-(4) **Yahalomi, D. A.** et al. ``Not So Fast Kepler-1513: A Perturbing Planetary Interloper in the Exomoon Corridor.'' Monthly Notices of the Royal Astronomical Society, accepted, arxiv: 2310.03802, 09/2023. <br>
+(4) **Yahalomi, D. A.** et al. ``Not So Fast Kepler-1513: A Perturbing Planetary Interloper in the Exomoon Corridor.'' Monthly Notices of the Royal Astronomical Society, 527, 1, 620-639 (2024). <br>
 
-(3) **Yahalomi, D. A.** et al. ``Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys'' The Astronomical Journal, under review, arXiv 2302.05064, 2023. <br>
+(3) **Yahalomi, D. A.** et al. ``Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys'' The Astronomical Journal, 166, 6, id.258, (2023). <br>
 
 (2) **Yahalomi, D. A.** et al. ``The Mass of the White Dwarf Companion in the Self-Lensing Binary KOI-3278: Einstein vs. Newton.'' The Astrophysical Journal, 880, 33 (2019). <br>
 
