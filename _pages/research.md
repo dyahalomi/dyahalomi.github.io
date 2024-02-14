@@ -19,7 +19,7 @@ For a brief summary of these projects, see below:
 
 ## "Killing" the Moon Hypothesis in the Kepler-1513b System
 _Advisor: [Prof. David Kipping](http://davidkipping.co.uk/)_ <br>
-_Paper: on [arXiv](https://arxiv.org/abs/2310.03802) // accepted in MNRAS (09/2023)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527..620Y/abstract) // published in MNRAS (01/2024)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/Kepler1513)_ <br>
 _Research Summary: [Twitter Thread](https://twitter.com/dyahalomi/status/1711408199025283218)_ <br>
 
@@ -39,7 +39,7 @@ Using nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiN
 
 ## Solar System Analog Hunting
 _Advisors: [Prof. Ruth Angus](https://ruthangus.github.io/) & [Prof. David Spergel](https://www.astro.princeton.edu/~dns/)_ <br>
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abstract) // under review at AAS Journals_<br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abstract) // published in AJ (01/2024)_<br>
 _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 _Research Summary: [Twitter Thread](https://twitter.com/dyahalomi/status/1625113519111675904)_ <br>
 
@@ -76,7 +76,7 @@ A formal write-up, API documentation, and a tutorial for the `democratic_detrend
 
 ## Determining the Mass and Radius for the White Dwarf in KOI-3278
 _Advisor: [Prof. David Latham](https://pweb.cfa.harvard.edu/people/david-latham)_ <br>
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ // published in ApJ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract)_ // published in ApJ (07/2019) <br>
 _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br> 
 
 <img align="right" src="../images/WDmassVradius_Brewer.jpg" width=500>
