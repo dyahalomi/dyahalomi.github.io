@@ -10,7 +10,6 @@ redirect_from:
 
 
 
-
 I'm a PhD student at Columbia University in the Department of Astronomy & Astrophysics. I received my bachelor's from MIT in Physics with a Concentration in Astronomy and with Minors in Computer Science and Comparitive Media Studies in 2018. After MIT, I spent two years working as a part of the TESS Science Team at the Harvard & Smithsonian Center for Astrophysics. I am a [NASA ExoExplorer](https://exoplanets.nasa.gov/exep/exopag/exoexplorers/exoexplorers-welcome/), an [LSSTC Data Science Fellow](https://www.lsstcorporation.org/lincc/fellowship_program), and an [AAS National Osterbrock Leadership Fellow](https://aas.org/nolp).
 
 
