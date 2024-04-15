@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "STAR"
-permalink: /star/
+permalink: /STAR/
 author_profile: true
 ---
 
