@@ -20,6 +20,7 @@ author_profile: true
 ### Program Requirements:<br> 
 - No prior research experience needed—just interest + curiosity!<br>
 - Applicants must be in 10th-12th grade during 2024-2025.<br>
+- Currently partnered with Columbia Secondary School for 2024-2025 pilot program.<br>
 <br>
 
 ### Application will be posted here on May 6th.
