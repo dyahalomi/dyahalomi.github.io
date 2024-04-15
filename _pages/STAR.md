@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## Columbia Student Training in Astronomy Research (STAR) Mentoring Program
-<img align="right" src="../images/STAR_logo.png" width=200>
+<img align="right" src="../images/STAR_logo.png" width=400>
 
 Program Details:<br>
 - September 2024- May 2025.<br>
