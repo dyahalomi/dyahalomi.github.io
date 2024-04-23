@@ -23,7 +23,7 @@ author_profile: true
 - Currently partnered with Columbia Secondary School for 2024-2025 pilot program.<br>
 <br>
 
-### Link to application will be posted here on May 6th. Applications open May 6-17th, 2024.
+### Link to application will be posted here on May 6th. Applications open May 6-24th, 2024.
 
 
 
