@@ -11,6 +11,12 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 ## First Author Publications
 
+(7) **Yahalomi, D. A.** et al. ``The Exoplanet Edge: Planets Don't Induce Observable TTVs Faster than Half their Orbital Period.'' Submitted to AAS Journals, link (2024). <br>
+
+(6) **Yahalomi, D. A.** and Kipping, D. ``The TTV Inversion Problem: Mapping the Orbital Landscape of Perturbing Planet Period Modes in Single-Planet Systems with TTVs.'' Submitted to AAS Journals, link (2024). <br>
+
+(5) **Yahalomi, D. A.** et al. ``The democratic detrender: Ensemble-Based Removal of the Nuisance Signal in Stellar Time-Series Photometry.'' Submitted to AAS Journals, link (2024). <br>
+
 (4) **Yahalomi, D. A.** et al. ``Not So Fast Kepler-1513: A Perturbing Planetary Interloper in the Exomoon Corridor.'' Monthly Notices of the Royal Astronomical Society, 527, 1, 620-639 (2024). <br>
 
 (3) **Yahalomi, D. A.** et al. ``Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys'' The Astronomical Journal, 166, 6, id.258, (2023). <br>
