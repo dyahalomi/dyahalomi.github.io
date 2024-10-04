@@ -11,7 +11,7 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 ## First Author Publications
 
-(7) **Yahalomi, D. A.** et al. ``The Exoplanet Edge: Planets Don't Induce Observable TTVs Faster than Half their Orbital Period.'' Submitted to AAS Journals, link (2024). <br>
+(7) **Yahalomi, D. A.** et al. ``The Exoplanet Edge: Planets Don't Induce Observable TTVs Faster than Half their Orbital Period.'' Submitted to AAS Journals, [link](_publications/exoplanet_edge_paper_aas.pdf) (2024). <br>
 
 (6) **Yahalomi, D. A.** and Kipping, D. ``The TTV Inversion Problem: Mapping the Orbital Landscape of Perturbing Planet Period Modes in Single-Planet Systems with TTVs.'' Submitted to AAS Journals, link (2024). <br>
 
