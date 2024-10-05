@@ -13,7 +13,7 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 (7) **Yahalomi, D. A.** et al. "The Exoplanet Edge: Planets Don't Induce Observable TTVs Faster than Half their Orbital Period." Submitted to AAS Journals, [link](https://drive.google.com/file/d/1wNfkRKNWZ-glTBjVCFXdzhWSw7WjRQHj/view?usp=sharing) (2024). <br>
 
-(6) **Yahalomi, D. A.** and Kipping, D. "The TTV Inversion Problem: Mapping the Orbital Landscape of Perturbing Planet Period Modes in Single-Planet Systems with TTVs." Submitted to AAS Journals, [link](https://drive.google.com/file/d/1qscXlaJZWKy6uhTreVAX056BYbnxjJoB/view?usp=sharing) (2024). <br>
+(6) **Yahalomi, D. A.** and Kipping, D. "A Map of the Orbital Landscape for Perturbing Planet Solutions for Single-Planet Systems with TTVs." Submitted to AAS Journals, [link](https://drive.google.com/file/d/1qscXlaJZWKy6uhTreVAX056BYbnxjJoB/view?usp=sharing) (2024). <br>
 
 (5) **Yahalomi, D. A.** et al. "The democratic detrender: Ensemble-Based Removal of the Nuisance Signal in Stellar Time-Series Photometry." Submitted to AAS Journals, [link](https://drive.google.com/file/d/1V3XNY_Ka1S9AHDHVvBnvWTDO0FlG7MVh/view?usp=sharing) (2024). <br>
 
