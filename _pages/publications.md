@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-An up-to-date list of refereed publications can be found on [NASA/ADS](https://ui.adsabs.harvard.edu/user/libraries/M3CjdVwZQ16s0_1_iBXh1A). 
+An up-to-date list of refereed publications can be found on [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/M3CjdVwZQ16s0_1_iBXh1A). 
 
 
 ## First Author Publications
