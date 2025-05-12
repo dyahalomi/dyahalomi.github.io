@@ -11,7 +11,7 @@ author_profile: true
 <img align="right" src="../images/STAR_logo.png" width=400>
 
 ### Program Details:<br>
-- September 2025- May 2026.<br>
+- September 2025 - May 2026.<br>
 - Applications open in May 2025.<br>
 - Students meet 2x week for 2 hours with their research mentors.<br>
 - STAR students are paid for their work!<br>
