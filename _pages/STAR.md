@@ -11,19 +11,19 @@ author_profile: true
 <img align="right" src="../images/STAR_logo.png" width=400>
 
 ### Program Details:<br>
-- September 2024- May 2025.<br>
-- Applications open in May 2024.<br>
+- September 2025- May 2026.<br>
+- Applications open in May 2025.<br>
 - Students meet 2x week for 2 hours with their research mentors.<br>
 - STAR students are paid for their work!<br>
 <br>
 
 ### Program Requirements:<br> 
 - No prior research experience needed—just interest + curiosity!<br>
-- Applicants must be in 10th-12th grade during 2024-2025.<br>
-- Currently partnered with Columbia Secondary School for 2024-2025 pilot program.<br>
+- Applicants must be in 10th-12th grade during 2025-2026.<br>
+- Currently partnered with Columbia Secondary School for 2025-2026 program.<br>
 <br>
 
-### [Apply here!](https://forms.gle/j4BwR22NzpJZFM7X7) Application open May 6-24th, 2024.
+### Application will be open May 26 – June 13, 2025. Link will be posted here.
 
 
 
