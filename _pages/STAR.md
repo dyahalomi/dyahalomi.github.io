@@ -12,7 +12,6 @@ author_profile: true
 
 ### Program Details:<br>
 - September 2025 - May 2026.<br>
-- Applications open in May 2025.<br>
 - Students meet 2x week for 2 hours with their research mentors.<br>
 - STAR students are paid for their work!<br>
 <br>
@@ -23,7 +22,7 @@ author_profile: true
 - Currently partnered with Columbia Secondary School for 2025-2026 program.<br>
 <br>
 
-### Application will be open May 26 – June 13, 2025. Link will be posted here.
+### Application are open May 26 – June 13, 2025. Link [here](https://forms.gle/bWBH8LMW5eBWbk7v8).
 
 
 
