@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a Flatiron Research Fellow at the Flatiron Institute Center for Computational Astrophysics. Starting in January 2026, I will be a Torres Fellow at MIT. 
+I'm a Flatiron Research Fellow at the Flatiron Institute, Center for Computational Astrophysics. Starting in January 2026, I will be a Torres Fellow at MIT. 
 
 I am a data driven dynamicist, which means that I develop techniques that fuse data analysis with dynamical theory & simulations to study the formation, evolution, and orbital configurations of exoplanetary systems.
 
