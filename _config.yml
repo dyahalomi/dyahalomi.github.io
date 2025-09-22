@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel A. Yahalomi"
 title_separator          : "-"
 name                     : &name "Daniel A. Yahalomi"
-description              : &description "PhD Student at Columbia University"
+description              : &description "Flatiron Research Fellow at Flatiron Institute CCA"
 url                      : "https://www.danielyahalomi.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dyahalomi/dyahalomi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Daniel A. Yahalomi"
   avatar           : "website_headshot.png"
-  bio              : "PhD Candidate in Astronomy & Astrophysics at Columbia University"
+  bio              : "Flatiron Research Fellow at Flatiron Institute CCA"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wgejHIYAAAAJ&hl=en"
-  email            : "daniel.yahalomi@columbia.edu"
+  email            : "yahalomi@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
