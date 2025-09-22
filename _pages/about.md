@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <img align="left" src="../images/data_driven_dynamics.png" width=500>
-<br><br><br>
+<div style="clear: left;"></div>
 
 I'm a Flatiron Research Fellow at the Flatiron Institute, Center for Computational Astrophysics. Starting in January 2026, I will be a Torres Fellow at MIT. 
 
