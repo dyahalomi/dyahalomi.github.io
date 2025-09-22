@@ -34,5 +34,5 @@ I am also the lead developer of the [`democratic detrender`](https://github.com/
 
 Contact Me
 ======
-Email: [daniel.yahalomi@columbia.edu](mailto:daniel.yahalomi@columbia.edu) <br>
+Email: [yahalomi@mit.edu](mailto:yahalomi@mit.edu) <br>
 Office: Pupin Hall, 538 West 120th Street, New York, NY
