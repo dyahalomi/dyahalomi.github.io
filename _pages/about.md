@@ -17,8 +17,7 @@ I am a data driven dynamicist, which means that I develop techniques that fuse d
 I received my PhD from Columbia University in the Department of Astronomy & Astrophysics in 2025. I received my bachelor's from MIT in Physics with a Concentration in Astronomy and with Minors in Computer Science and Comparitive Media Studies in 2018. After MIT, I spent two years working as a part of the TESS Science Team at the Harvard & Smithsonian Center for Astrophysics. While at Columbia, I was a [NASA ExoExplorer](https://exoplanets.nasa.gov/exep/exopag/exoexplorers/exoexplorers-welcome/), an [LSSTC Data Science Fellow](https://www.lsstcorporation.org/lincc/fellowship_program), and an [AAS National Osterbrock Leadership Fellow](https://aas.org/nolp).
 
 
-I am passionate about mentoring younger scientists. I've worked with high school students on astronomy research through the [Harvard SRMP](https://projects.iq.harvard.edu/shrimp) since 2018, and I served as Co-Director of the program from 2021-2023. I am currently devloping a similar program at Columbia, that will start in Fall 2024.
-
+I am passionate about mentoring younger scientists. I've worked with high school students on astronomy research through the [Harvard SRMP](https://projects.iq.harvard.edu/shrimp) since 2018, and I served as Co-Director of the program from 2021-2023. I am the Founding Director of the Columbia STAR (Student Training in Astronomy Research) Program, which is now in its 2nd year in 2025-2026. 
 
 
 
