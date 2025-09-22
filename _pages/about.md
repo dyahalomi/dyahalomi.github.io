@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
-
-I'm a Flatiron Research Fellow at the Flatiron Institute, Center for Computational Astrophysics. Starting in January 2026, I will be a Torres Fellow at MIT. 
-
-
 <img align="left" src="../images/data_driven_dynamics.png" width=500>
 <br>
 
+I'm a Flatiron Research Fellow at the Flatiron Institute, Center for Computational Astrophysics. Starting in January 2026, I will be a Torres Fellow at MIT. 
 
 My research focuses on **exoplanets** (short for extrasolar planet) and the stars that they orbit. Specifically, I am a **data driven dynamicist**, which means that I develop techniques that fuse data analysis with dynamical theory & simulations to study the evolution, demographics, and orbital configurations of exoplanetary systems.
 
