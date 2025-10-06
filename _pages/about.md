@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Flatiron Research Fellow at the Flatiron Institute, Center for Computational Astrophysics. Starting in January 2026, I will be a Torres Fellow at MIT. 
 
-I study **(exo)planetary systems**, working to discover them, characterize their architectures and demographics, and understand the processes that drive their formation and evolution. Specifically, I am a **data driven dynamicist**, which means that I develop techniques that fuse data analysis with dynamical theory & simulations to probe the evolution, demographics, and orbital configurations of exoplanetary systems.
+I study **(exo)planetary systems**, working to discover them, characterize their architectures, and understand the processes that drive their formation and evolution. Specifically, I am a **data driven dynamicist**, which means that I develop techniques that fuse data analysis with dynamical theory & simulations to probe the evolution, demographics, and orbital configurations of (exo)planetary systems.
 
 I received my PhD from Columbia University in the Department of Astronomy & Astrophysics in 2025. I received my bachelor's from MIT in Physics with a Concentration in Astronomy and with Minors in Computer Science and Comparitive Media Studies in 2018. After MIT, I spent two years working as a part of the TESS Science Team at the Harvard & Smithsonian Center for Astrophysics. While at Columbia, I was a [NASA ExoExplorer](https://exoplanets.nasa.gov/exep/exopag/exoexplorers/exoexplorers-welcome/), an [LSSTC Data Science Fellow](https://www.lsstcorporation.org/lincc/fellowship_program), and an [AAS National Osterbrock Leadership Fellow](https://aas.org/nolp).
 
