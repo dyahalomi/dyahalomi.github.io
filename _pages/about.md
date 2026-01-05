@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Flatiron Research Fellow at the Flatiron Institute, Center for Computational Astrophysics. Starting in January 2026, I will be a Torres Fellow at MIT. 
+I am a Torres Postdoctoral Fellow at MIT's Kavli Institute for Astrophysics and Space Research. 
 
 I study **(exo)planetary systems**, working to discover them, characterize their architectures, and understand the processes that drive their formation and evolution. Specifically, I am a **data driven dynamicist**, which means that I develop techniques that fuse data analysis with dynamical theory and simulations to probe the evolution, demographics, and orbital configurations of (exo)planetary systems.
 
