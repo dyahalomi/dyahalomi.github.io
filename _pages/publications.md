@@ -11,9 +11,11 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 ## First Author Publications
 
-(7) **Yahalomi, D. A.** and Kipping, D. "A Map of the Orbital Landscape for Perturbing Planet Solutions for Single-Planet Systems with TTVs." Submitted to AAS Journals, [link](https://drive.google.com/file/d/1qscXlaJZWKy6uhTreVAX056BYbnxjJoB/view?usp=sharing) (2024). <br>
+(8) **Yahalomi, D. A.** et al. "The Astrometric Resoeccentric Degeneracy: Eccentric Single Planets Mimic 2:1 Resonant Planet Pairs in Astrometry." Accepted to ApJL, [arXiv link](https://arxiv.org/pdf/2512.02007) (2026). <br>
 
-(6) **Yahalomi, D. A.** et al. "The democratic detrender: Ensemble-Based Removal of the Nuisance Signal in Stellar Time-Series Photometry." Submitted to AAS Journals, [link](https://drive.google.com/file/d/1V3XNY_Ka1S9AHDHVvBnvWTDO0FlG7MVh/view?usp=sharing) (2024). <br>
+(7) **Yahalomi, D. A.** et al. "The democratic detrender: Ensemble-Based Removal of the Nuisance Signal in Stellar Time-Series Photometry." Accepted to ApJS, [arXiv link](https://arxiv.org/pdf/2411.09753) (2026). <br>
+
+(6) **Yahalomi, D. A.** and Kipping, D. "Mapping the Orbital Landscape for Perturbing Planet Solutions for Single-Planet Systems with TTVs." The Astrophysical Journal, 998:136 (2026). <br>
 
 (5) **Yahalomi, D. A.** et al. “The Exoplanet Edge: Planets Do Not Induce Observable Transit Timing Variations with a Dominant Transit Timing Variation Period Faster than Half Their Orbital Period .” The Astrophysics Journal Letters, 984, L67, (2025).
 
@@ -33,8 +35,17 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 I contributed ideas, wrote code, ran code, analyzed results, and/or wrote part of the manuscript. <br>
 
+(9) Cassese, B. et al. **including Yahalomi D. A. (3rd author)** “Quantifying the Contamination of TESS Ecliptic-Plane Light Curves by Minor Planets” accepted to AJ, arXiv:2601.02637, (2026).
 
-(4) Grunblatt, S. et al. **including Yahalomi D. A.** "Roman CCS White Paper: Adding Fields Hosting Globular Clusters To The Galactic Bulge Time Domain Survey." White Paper, arXiv:2306.10647 (2023). <br>
+(8) Kipping, D. et al. **including Yahalomi D. A. (4th author)** “A JWST Transit of a Jupiter Analog: II. A Search for Exomoons” submitted to AAS Journals, arXiv:2511.15317,(2025).
+
+(7) Cassese, B. et al. **including Yahalomi D. A. (4th author)** “A JWST Transit of a Jupiter Analog I: Constraints on the Oblateness of Kepler‑167e” submitted to AAS Journals, arXiv:2511.02067, (2025).
+
+(6) Kipping, D. et al. **including Yahalomi D. A. (3rd author)** “Near‑circular orbits for planets with Earth‑like sizes and instellations around M and K dwarf stars” Nature Astronomy, Volume 9, p. 1007‑1021 (2025).
+
+(5) Kipping, D. et al. **including Yahalomi D. A. (3rd author)** “Concerning the possible exomoons around Kepler‑1625 b and Kepler‑1708 b” Nature Astronomy, Volume 9, p. 795‑798 (2025). <br>
+
+(4) Grunblatt, S. et al. **including Yahalomi D. A. (2nd author)** "Roman CCS White Paper: Adding Fields Hosting Globular Clusters To The Galactic Bulge Time Domain Survey." White Paper, arXiv:2306.10647 (2023). <br>
 
 (3) Kipping, D. and **Yahalomi D. A.** "A search for transit timing variations within the exomoon corridor using Kepler data." Monthly Notices of the Royal Astronomical Society, 518, 3 (2023). <br>
 
