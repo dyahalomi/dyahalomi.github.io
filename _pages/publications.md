@@ -45,7 +45,7 @@ I contributed ideas, wrote code, ran code, analyzed results, and/or wrote part o
 
 (5) Kipping, D. et al. **including Yahalomi D. A. (3rd author)** “Concerning the possible exomoons around Kepler‑1625 b and Kepler‑1708 b” Nature Astronomy, Volume 9, p. 795‑798 (2025). <br>
 
-(4) Grunblatt, S. et al. **including Yahalomi D. A. (2nd author)** "Roman CCS White Paper: Adding Fields Hosting Globular Clusters To The Galactic Bulge Time Domain Survey." White Paper, arXiv:2306.10647 (2023). <br>
+(4) Grunblatt, S. et al. **including Yahalomi D. A. (6th author)** "Roman CCS White Paper: Adding Fields Hosting Globular Clusters To The Galactic Bulge Time Domain Survey." White Paper, arXiv:2306.10647 (2023). <br>
 
 (3) Kipping, D. and **Yahalomi D. A. (2nd author)** "A search for transit timing variations within the exomoon corridor using Kepler data." Monthly Notices of the Royal Astronomical Society, 518, 3 (2023). <br>
 
