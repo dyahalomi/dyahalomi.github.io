@@ -10,7 +10,7 @@ author_profile: true
 
 ## High School Research Mentorship Programs
 # Harvard-MIT Science Research Mentoring Program (SRMP)
-<img align="right" src="../images/*SRMP.PNG" width=200>
+<img align="right" src="../images/*SRMP.PNG" width=100>
 
 Early on, I had tremendous mentors who encouraged me to pursue my interests in astronomy and astrophysics, and I believe that the best way to encourage students to follow their scientific curiosities is to provide them opportunities to conduct real research and to guide them through the process, showing them that they can make meaningful contributions to scientific discovery. <br><br>
 
