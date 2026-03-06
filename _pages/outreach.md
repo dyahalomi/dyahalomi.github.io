@@ -26,6 +26,13 @@ I have been fortunate to serve in several roles within the Harvard SRMP: <br>
 - Associate Director (2020–2021)
 - Head of Observing (2018–2020) <br><br>
 
+<div style="display: flex; justify-content: center; height: 250px;">
+  <img src="../images/srmp_team_2023.jpg" style="height: 100%; object-fit: cover; margin-right: 10px;" />
+  <img src="../images/SRMP_Galileoscopes_2020.JPG" style="height: 100%; object-fit: cover; margin-right: 10px;" />
+  <img src="../images/telescopes_2023.jpg" style="height: 100%; object-fit: cover;" />
+</div>
+
+
 ## Columbia Student Training in Astronomy Research (STAR)
 <img align="right" src="../images/STAR_logo.png" width=300>
 
@@ -41,9 +48,7 @@ I have served in several roles within the Columbia STAR Program: <br>
 
 
 <div style="display: flex; justify-content: center; height: 250px;">
-  <img src="../images/srmp_team_2023.jpg" style="height: 100%; object-fit: cover; margin-right: 10px;" />
-  <img src="../images/SRMP_Galileoscopes_2020.JPG" style="height: 100%; object-fit: cover; margin-right: 10px;" />
-  <img src="../images/telescopes_2023.jpg" style="height: 100%; object-fit: cover;" />
+  <img src="../images/star_team_2025.jpeg" style="height: 100%; object-fit: cover; margin-right: 10px;" />
+  <img src="../images/star_cohort_2025.jpeg" style="height: 100%; object-fit: cover;" />
 </div>
-
 
