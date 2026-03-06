@@ -13,9 +13,11 @@ main:
   - title: "Outreach"
     url: /outreach/
 
-
   - title: "Mentoring"
     url: /mentoring/
+
+  - title: "Media"
+    url: /media/
 
   - title: "STAR"
     url: /STAR/
