@@ -34,7 +34,7 @@ I have been fortunate to serve in several roles within the Harvard SRMP: <br>
 
 
 ## Columbia Student Training in Astronomy Research (STAR)
-<img align="right" src="../images/STAR_logo.png" width=300>
+<img align="right" src="../images/STAR_logo.jpg" width=200>
 
 Building on my experience with SRMP, I founded the **Columbia Student Training in Astronomy Research (STAR) Program**, a year-long, paid mentorship initiative for students from a public high school in Harlem. During my Ph.D., I assembled a team of faculty, graduate students, postdocs, and program staff at Columbia and built partnerships with school leadership and external organizations to launch the program. <br><br>
 
