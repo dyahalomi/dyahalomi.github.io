@@ -5,9 +5,7 @@ permalink: /media/
 author_profile: true
 ---
 
-# Media
-
-Here are some media related to my research. I am very excited to discuss science broadly: <br>
+Here are some media related to my research and outreach. I am very excited and open to discuss and share science broadly: <br>
 
 - 02/05/2026: [BBC Sky at Night Magazine: NASA Artemis Moon base would face a silent threat on the lunar surface. Has science found a solution?](https://www.skyatnightmagazine.com/news/micrometeoroids-moon-base)
 - 12/27/2025: [Columbia Neighbors: Year in Review: Top 'Columbia Neighbors' Stories of 2025](https://neighbors.columbia.edu/news/year-review-top-columbia-neighbors-stories-2025)
