@@ -42,7 +42,7 @@ The pilot cohort ran in the 2024–2025 academic year with 10 students conductin
 
 I have served in several roles within the Columbia STAR Program: <br>
 
-- Founder and Director (2024–2025)
+- Director (2024–2025)
 - Advisory Director (2025-Present)
 - Project Mentor (2024–2026)
 
