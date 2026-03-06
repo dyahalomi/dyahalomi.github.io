@@ -10,7 +10,7 @@ author_profile: true
 Here are some media related to my research. I am very excited to discuss science broadly: <br>
 
 - 02/05/2026: [BBC Sky at Night Magazine: NASA Artemis Moon base would face a silent threat on the lunar surface. Has science found a solution?](https://www.skyatnightmagazine.com/news/micrometeoroids-moon-base)
-- 12/27/2025: [Columbia Neighbors: Year in Review: Top 'Columbia Neighbors' Stories of 2025] (https://neighbors.columbia.edu/news/year-review-top-columbia-neighbors-stories-2025)
+- 12/27/2025: [Columbia Neighbors: Year in Review: Top 'Columbia Neighbors' Stories of 2025](https://neighbors.columbia.edu/news/year-review-top-columbia-neighbors-stories-2025)
 - 11/11/2025: [Universe Today: The Hidden Danger of Lunar Micrometeoroid Storms](https://www.universetoday.com/articles/the-hidden-danger-of-lunar-micrometeoroid-storms)
 - 05/22/2025: [Columbia Neighbors: Morningside Heights to the Moon: Columbia STAR Program Aims to Expand Access to Astronomy Education Uptown](https://neighbors.columbia.edu/news/morningside-heights-moon-columbia-star-program-aims-expand-access-astronomy-education-uptown)
 - 11/26/2024: [Cool Worlds YouTube: From Wobbles to Worlds - Discovery of The Exoplanet Edge!](https://www.youtube.com/watch?v=PJ9c-hpn56o)
