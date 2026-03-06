@@ -19,4 +19,4 @@ Here are some media related to my research. I am very excited to discuss science
 - 03/27/2024: [City of Cambridge: Community Astronomy Night Brings Young People, Scientists Together to Explore Night Sky](https://www.cambridgema.gov/Departments/humanserviceprograms/News/2024/03/communityastronomynight)
 - 03/27/2024: [STEAM Rises Podcast: Wobbles and Wonder - Mentoring in an Astrophysics Program](https://open.spotify.com/episode/2ItbHmjO07nX4UVcYZsR0L)
 - 07/19/2022: [Harvard CfA Press Release: Determining the Mass of the White Dwarf in KOI-3278 Using Two Different but Complimentary Techniques](https://www.cfa.harvard.edu/news/determining-mass-white-dwarf-koi-3278-using-two-different-complimentary-techniques)
-- 
+  
