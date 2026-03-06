@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-# High School Research Mentorship Programs
 ## Harvard-MIT Science Research Mentoring Program (SRMP)
 <img align="right" src="../images/*SRMP.PNG" width=200>
 
