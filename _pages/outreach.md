@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## High School Research Mentorship Programs
-# Science Research Mentoring Program (SRMP)
+# Harvard-MIT Science Research Mentoring Program (SRMP)
 <img align="right" src="../images/*SRMP.PNG" width=200>
 
 Early on, I had tremendous mentors who encouraged me to pursue my interests in astronomy and astrophysics, and I believe that the best way to encourage students to follow their scientific curiosities is to provide them opportunities to conduct real research and to guide them through the process, showing them that they can make meaningful contributions to scientific discovery. <br><br>
@@ -28,7 +28,7 @@ I have been fortunate to serve in several roles within the Harvard SRMP: <br>
 - Associate Director (2020–2021)
 - Head of Observing (2018–2020) <br><br>
 
-# Science Research Mentoring Program (SRMP)
+# Columbia Student Training in Astronomy Research (STAR)
 <img align="right" src="../images/*STAR_logo.png" width=200>
 
 Building on my experience with SRMP, I founded the **Columbia Student Training in Astronomy Research (STAR) Program**, a year-long, paid mentorship initiative for students from a public high school in Harlem. During my Ph.D., I assembled a team of faculty, graduate students, postdocs, and program staff at Columbia and built partnerships with school leadership and external organizations to launch the program. <br><br>
