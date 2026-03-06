@@ -11,7 +11,7 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 ## First Author Publications
 
-(9) **Yahalomi, D. A.** et al. “Micrometeoroid Impact Rate Analysis for an Artemis‑Era Lunar Base.” in preparation/revision, arXiv:2511.04740, (2026).
+(9) **Yahalomi, D. A.** et al. “Micrometeoroid Impact Rate Analysis for an Artemis‑Era Lunar Base.” in preparation/revision, [arXiv link](https://arxiv.org/abs/2511.04740) (2026).
 
 (8) **Yahalomi, D. A.** et al. "The Astrometric Resoeccentric Degeneracy: Eccentric Single Planets Mimic 2:1 Resonant Planet Pairs in Astrometry." Accepted to ApJL, [arXiv link](https://arxiv.org/pdf/2512.02007) (2026). <br>
 
