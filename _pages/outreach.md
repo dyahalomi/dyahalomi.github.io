@@ -38,13 +38,13 @@ I have been fortunate to serve in several roles within the Harvard SRMP: <br>
 
 Building on my experience with SRMP, I founded the **Columbia Student Training in Astronomy Research (STAR) Program**, a year-long, paid mentorship initiative for students from a public high school in Harlem. During my Ph.D., I assembled a team of faculty, graduate students, postdocs, and program staff at Columbia and built partnerships with school leadership and external organizations to launch the program. <br><br>
 
-The pilot cohort ran in the 2024–2025 academic year with 10 students conducting astronomy research projects. The program expanded to 12 students in 2025–2026, and a similar cohort is anticipated for 2026–2027. To support the program, I secured external funding from the Pinkerton Foundation to provide stipends for both students and mentors and to sustain the program across multiple cohorts. <br><br>
+The pilot cohort ran in the 2024–2025 academic year with 10 students conducting astronomy research projects. The program expanded to 12 students in 2025–2026, and a similar cohort is anticipated for 2026–2027. To support the program, we secured external funding from the Pinkerton Foundation to provide stipends for both students and mentors and to sustain the program across multiple cohorts. <br><br>
 
 I have served in several roles within the Columbia STAR Program: <br>
 
 - Director (2024–2025)
 - Advisory Director (2025-Present)
-- Project Mentor (2024–2026)
+- Project Mentor (2024–Present)
 
 
 <div style="display: flex; justify-content: center; height: 250px;">
