@@ -17,7 +17,7 @@ Here is a brief summary of some of the projects that I've led:
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...999L...9Y/abstract) // published in ApJL (03/2026)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/astrometric_resoeccentric_degeneracy)_ <br>
 
-<img align="right" src="../images/resoeccentric_vs_inclination.pdf" width=500>
+<img align="right" src="../images/resoeccentric_vs_inclination.png" width=500>
 
 We identify and derive the astrometric resoeccentric degeneracy, in which a single eccentric planet can mimic the astrometric signal of two circular planets in a near 2:1 mean motion resonance. This effect is the astrometric analogue of the well-known radial velocity degeneracy and is particularly relevant for interpreting results from upcoming datasets such as *Gaia* DR4. <br>
 
@@ -31,7 +31,7 @@ We further map this degeneracy onto physical system parameters, demonstrating ho
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..136Y/abstract) // published in ApJ (02/2026)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/ttv_orbital_landscape)_ <br>
 
-<img align="right" src="../images/analytic_numerical_landscape.pdf" width=500>
+<img align="right" src="../images/analytic_numerical_landscape.png" width=500>
 
 We investigate the highly degenerate problem of interpreting transit timing variations (TTVs) in single-transiting-planet systems, where the perturbing companion is unseen. Using extensive N-body simulations, we map the multi-modal solution space of possible perturber orbital periods and introduce the “TTV circus tent” diagram as a visualization of this structure. <br>
 
@@ -44,7 +44,7 @@ Finally, we demonstrate how this framework can be used to distinguish between pe
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..67Y/abstract) // published in ApJL (05/2025)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/exoplanet_edge)_ <br>
 
-<img align="right" src="../images/exoplanet_edge_holczer_multis_ttvs.pdf" width=500>
+<img align="right" src="../images/exoplanet_edge_holczer_multis_ttvs.png" width=500>
 
 We identify a fundamental feature of planet-induced transit timing variations: an “exoplanet edge”, a lower limit on the dominant TTV period. We show that planet–planet interactions do not produce observable TTVs with dominant periods shorter than half the orbital period of the perturbing planet. <br>
 
@@ -60,7 +60,7 @@ _Code: on [GitHub](https://github.com/dyahalomi/democratic_detrender)_ <br>
 _Code: on [Read the Docs](https://democratic-detrender.readthedocs.io/en/latest/)_ <br>
 
 
-<img align="right" src="../images/ensemble_detrending.pdf" width=500>
+<img align="right" src="../images/ensemble_detrending.png" width=500>
 
 I am the lead developer on an open source Python code package, called the `democratic_detrender`, that implements democratic (also previously called method marginalized) detrending. To summarize, democratic detrending uses four different detrending algorithms, and then takes the median solution between the detrending methods for each data point (and adds in quadrature to the errors the median absolute deviation between the detrending solutions). The code has been extensively tested (>1000 stars) on Kepler and TESS light curves <br>
 
