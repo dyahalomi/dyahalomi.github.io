@@ -11,7 +11,7 @@ author_profile: true
 My research combines observations, dynamical theory, and statistical methods to study the architectures and evolutionary histories of planetary systems. I use a data-driven dynamics approach, where dynamical simulations help interpret observational signatures and observations in turn constrain and refine theoretical models. In this framework, exoplanetary systems that we observe serve as natural laboratories for testing ideas about planet formation and evolution. An up-to-date list of refereed publications can be found on [NASA/ADS](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22yahalomi%2C%20daniel%22%20&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
 <br>
 
-Here is a brief summary of some of the projects that I've led:
+Here are a brief summaries of my lead-author research publications:
 
 ## The Astrometric Resoeccentric Degeneracy
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...999L...9Y/abstract) // published in ApJL (03/2026)_ <br>
@@ -108,7 +108,7 @@ Earth-mass exoplanets on year-long orbits and cool gas giants (CGG) on decade-lo
 
 However, RV observations can only provide minimum mass estimates, due to the mass-inclination degeneracy. Astrometric observations of these same stars, with sufficient precision, could break this degeneracy. Gaia will soon release ~100-200 astrometric observations of the THE stars with a 10 year baseline and ~34.2 μas 1σ along-scan measurement error.  The Nancy Grace Roman Space Telescope will be capable of precision astrometry using its wide field imager (target ~5-20 μas 1σ measurement error for bright stars) and could extend the astrometric observational baseline to ~25 years. We simulate and model an observing program that combines data from these three telescopes. 
 
-We found that (1) THE RVs and Gaia astrometry can detect Earth-like and CGG-like exoplanets around bright Sun-like stars at 10 parsecs and that (2) adding Roman astrometry improves the detection precision for CGG masses and periods by a factor up to ~10 and ~4, respectively. Such a survey could provide insight into the prevalence of Solar System analogs, exoplanet architectures reminiscent of the mass and orbital separation hierarchy of our Solar System, for the nearest Sun-like stars.
+We found that (1) THE RVs and Gaia astrometry can detect Earth-like and CGG-like exoplanets around bright Sun-like stars at 10 parsecs and that (2) adding Roman astrometry improves the detection precision for CGG masses and periods by a factor up to ~10 and ~4, respectively. Such a survey could provide insight into the prevalence of Solar System analogs, exoplanet architectures reminiscent of the mass and orbital separation hierarchy of our Solar System, for the nearest Sun-like stars. <br>
 
 
 
@@ -123,29 +123,9 @@ I also led a follow-up study of KOI-3278, the first discovered self-lensing bina
 
 We are hopeful that further studies of the white dwarf in KOI-3278, as well as four other discovered white dwarf self-lensing systems, in conjunction with UV follow-up observations will provide a test of white dwarf structure models. I am currently working with Columbia Undergraduate student, Yassine Abaakil, on a project reproducing this work for the other four known Kepler self-lensing binaries. <br>
 
-There was a press release for this paper, which can be found [here](https://www.cfa.harvard.edu/news/2019-16).
+There was a press release for this paper, which can be found [here](https://www.cfa.harvard.edu/news/2019-16). <br>
 
 
-
-
-
-## Astronomer on the TESS Science Team
-<img align="right" src="../images/tess.gif">
-
-In between undergraduate and graduate school, I worked for two years as an astronomer at the Center for Astrophysics \| Harvard and Smithsonian (CfA) with Dr. David Latham. TESS, the Transiting Exoplanet Survey Satellite, is a NASA satellite that launched in April 2018. TESS searches for planets using the transit method. The transit method in exoplanet science is where we look for a periodic decrease in the light received from a distant star, due to the planet passing in front of the star relative to Earth. In working on TESS, I contributed to the science team in several ways and grew immensely as a researcher.​​ <br>
-
-
-**My work on the TESS Mission included:** <br>
-
-- Group lead in the planet vetting process  -- for which I individually vetted light curves targeted as planet candidates by the analysis pipelines and led weekly group vetting sessions where we decided which targets to alert as planet candidates to the public. <br>
-
-- I ran photometric follow-up observations (~20 nights) of TESS Objects of Interest (TOIs) using the 16” Clay Telescope at Harvard University to observe TOIs in the northern hemisphere. I also led outreach SG1 observing sessions (~10 nights) of TOIs with undergraduate students at the Clay Telescope as a part of the Harvard Observing Project. <br>
-
-- I planned and ran spectroscopic follow-up observations of TOIs using TRES on the 1.5 m Tillinghast Reflector at FLWO on Mt. Hopkins, AZ. <br>
-
-- I ran SPC analysis on TRES spectra of TESS planet candidate host stars to estimate the stellar temperature, metallicity, surface gravity, and rotation -- so that candidates for precise radial velocity observations by instruments like HARPS-N can be selected.
-
-- I wrote an MCMC RV code, to help with the RV modeling of TRES spectroscopic observations.
 
 ## Gravitational Microlensing of the Strongly Lensed Type IA Supernova iPTF16geu
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ // published in MIT Journal of Undergraduate Research <br>
@@ -154,6 +134,6 @@ _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abst
 
 As an undergraduate at MIT, I led an investigation into the micro-lensing of the first discovered, strongly lensed type Ia supernova, iPTF16geu. This system cause commotion when it was discovered, as its standard candle nature plus time delay values, could theoretically lead to a constraint of the Hubble parameter. However, the macro-models published by More et al. 2017 showed significant flux ratio anomolies with the observations of the four images. I constructed a Monte-Carlo simulation, in Python, which showed that the likelihood for micro-lensing to cause these flux ratio anomalies between observations and macro-models was ~3/1000. I then showed that even if the macro-models fit perfectly, the microlensing probability density functions create a probability distribution on the intrinsic brightness with a full width half maximum of 0.73 magnitudes. As such, the error for the standard candle brightness is quite large. This reduces the utility of the standard candle nature of type Ia supernovae. This project led to a first author paper, and cover article, in the MIT Undergraduate Research Journal Fall 2017, which has 30 academic citations (as of September 2023). <br>
 
-I then built on this work, leading three other micro-lensing projects that took advantage of the code that I had generated, culminating in my senior thesis, entitled “Statistical Analyses of Gravitational Microlensing Probability Densities.”
+I then built on this work, leading three other micro-lensing projects that took advantage of the code that I had generated, culminating in my senior thesis, entitled “Statistical Analyses of Gravitational Microlensing Probability Densities.” <br>
 
 
