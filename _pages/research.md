@@ -55,7 +55,7 @@ We apply this framework to Kepler systems and identify a population of planets e
 
 
 ## The democratic detrender: Ensemble-based Removal of the Nuisance Signal in Light Curves
-_Paper: on [IOP Science](https://iopscience.iop.org/article/10.3847/1538-4365/ae43c2) // published in ApJS (03/2026)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241109753Y/abstract) // published in ApJS (03/2026)_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/democratic_detrender)_ <br>
 _Code: on [Read the Docs](https://democratic-detrender.readthedocs.io/en/latest/)_ <br>
 
