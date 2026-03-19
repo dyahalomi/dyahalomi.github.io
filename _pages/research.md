@@ -16,7 +16,7 @@ Here are a brief summaries of my lead-author research publications:
 ## The Astrometric Resoeccentric Degeneracy
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...999L...9Y/abstract) // published in ApJL_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/astrometric_resoeccentric_degeneracy)_ <br>
-_Co-authors: Yahalomi, Lu, et al. 2026_ <br>
+_Yahalomi, Lu, et al. 2026_ <br>
 
 <img align="right" src="../images/resoeccentric_vs_inclination.png" width=500>
 
