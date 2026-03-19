@@ -31,7 +31,7 @@ We further map this degeneracy onto physical system parameters, demonstrating ho
 ## TTV Orbital Landscape... the Circus Tent Diagram
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..136Y/abstract) // published in ApJ_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/ttv_orbital_landscape)_ <br>
-_Co-authors: Yahalomi & Kipping 2026_ <br>
+_Yahalomi & Kipping 2026_ <br>
 
 <img align="right" src="../images/analytic_numerical_landscape.png" width=500>
 
@@ -45,7 +45,7 @@ Finally, we demonstrate how this framework can be used to distinguish between pe
 ## The TTV Exoplanet Edge... Planets don't Induce TTVs with Dominant Periods Faster than Half their own Orbital Period
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..67Y/abstract) // published in ApJL_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/exoplanet_edge)_ <br>
-_Co-authors: Yahalomi, Kipping, Agol, & Nesvorny 2025_ <br>
+_Yahalomi, Kipping, Agol, & Nesvorny 2025_ <br>
 
 <img align="right" src="../images/exoplanet_edge_holczer_multis_ttvs.png" width=500>
 
