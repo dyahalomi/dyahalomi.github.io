@@ -14,8 +14,9 @@ My research combines observations, dynamical theory, and statistical methods to 
 Here are a brief summaries of my lead-author research publications:
 
 ## The Astrometric Resoeccentric Degeneracy
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...999L...9Y/abstract) // published in ApJL (03/2026)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...999L...9Y/abstract) // published in ApJL_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/astrometric_resoeccentric_degeneracy)_ <br>
+_Co-authors: Yahalomi, Lu, et al. 2026_ <br>
 
 <img align="right" src="../images/resoeccentric_vs_inclination.png" width=500>
 
@@ -28,8 +29,9 @@ We further map this degeneracy onto physical system parameters, demonstrating ho
 
 
 ## TTV Orbital Landscape... the Circus Tent Diagram
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..136Y/abstract) // published in ApJ (02/2026)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..136Y/abstract) // published in ApJ_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/ttv_orbital_landscape)_ <br>
+_Co-authors: Yahalomi & Kipping 2026_ <br>
 
 <img align="right" src="../images/analytic_numerical_landscape.png" width=500>
 
@@ -41,8 +43,9 @@ Finally, we demonstrate how this framework can be used to distinguish between pe
 
 
 ## The TTV Exoplanet Edge... Planets don't Induce TTVs with Dominant Periods Faster than Half their own Orbital Period
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..67Y/abstract) // published in ApJL (05/2025)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..67Y/abstract) // published in ApJL_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/exoplanet_edge)_ <br>
+_Co-authors: Yahalomi, Kipping, Agol, & Nesvorny 2025_ <br>
 
 <img align="right" src="../images/exoplanet_edge_holczer_multis_ttvs.png" width=500>
 
@@ -55,9 +58,10 @@ We apply this framework to Kepler systems and identify a population of planets e
 
 
 ## The democratic detrender: Ensemble-based Removal of the Nuisance Signal in Light Curves
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241109753Y/abstract) // published in ApJS (03/2026)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241109753Y/abstract) // published in ApJS_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/democratic_detrender)_ <br>
 _Code: on [Read the Docs](https://democratic-detrender.readthedocs.io/en/latest/)_ <br>
+_Yahalomi, Kipping, et al. 2026_ <br>
 
 
 <img align="right" src="../images/ensemble_detrending.png" width=500>
@@ -77,9 +81,10 @@ In the package, we currently use four distinct detrending algorithms, which have
 
 
 ## "Killing" the Moon Hypothesis in the Kepler-1513b System
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527..620Y/abstract) // published in MNRAS (01/2024)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527..620Y/abstract) // published in MNRAS_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/Kepler1513)_ <br>
 _Research Summary: [Twitter Thread](https://twitter.com/dyahalomi/status/1711408199025283218)_ <br>
+_Yahalomi, Kipping, et al. 2024_ <br>
 
 
 <img align="right" src="../images/koi3678_ttvs_final.png" width=500>
@@ -96,9 +101,10 @@ Using nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiN
 
 
 ## Solar System Analog Hunting
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abstract) // published in AJ (01/2024)_<br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abstract) // published in AJ_<br>
 _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 _Research Summary: [Twitter Thread](https://twitter.com/dyahalomi/status/1625113519111675904)_ <br>
+_Yahalomi, Angus, Spergel, & Foreman-Macket 2024_ <br>
 
 
 
@@ -114,8 +120,9 @@ We found that (1) THE RVs and Gaia astrometry can detect Earth-like and CGG-like
 
 
 ## Determining the Mass and Radius for the White Dwarf in KOI-3278
-_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract) // published in ApJ (07/2019)_ <br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...33Y/abstract) // published in ApJ_ <br>
 _Code: on [GitHub](https://github.com/dyahalomi/koi3278)_ <br> 
+_Yahalomi, Shvartzvald, Agol, Shporer, Latham, et al. 2019_ <br>
 
 <img align="right" src="../images/WDmassVradius_Brewer.jpg" width=500>
 
@@ -129,6 +136,7 @@ There was a press release for this paper, which can be found [here](https://www.
 
 ## Gravitational Microlensing of the Strongly Lensed Type IA Supernova iPTF16geu
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2017arXiv171107919Y/abstract)_ // published in MIT Journal of Undergraduate Research <br>
+_Yahalomi, Schechter, & Wambsganss 2017_ <br>
 
 <img align="right" src="../images/iPTF16geu_final_figure.png" width=500>
 
