@@ -7,7 +7,7 @@ author_profile: true
 
 Here are some media related to my research and outreach. I am very excited and open to discuss and share science broadly: <br>
 
-- 05/08/2026: [NASA's Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here's why scientists are excited](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited)
+- 05/08/2026: [Space: NASA's Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here's why scientists are excited](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited)
 - 02/05/2026: [BBC Sky at Night Magazine: NASA Artemis Moon base would face a silent threat on the lunar surface. Has science found a solution?](https://www.skyatnightmagazine.com/news/micrometeoroids-moon-base)
 - 12/27/2025: [Columbia Neighbors: Year in Review: Top 'Columbia Neighbors' Stories of 2025](https://neighbors.columbia.edu/news/year-review-top-columbia-neighbors-stories-2025)
 - 11/11/2025: [Universe Today: The Hidden Danger of Lunar Micrometeoroid Storms](https://www.universetoday.com/articles/the-hidden-danger-of-lunar-micrometeoroid-storms)
