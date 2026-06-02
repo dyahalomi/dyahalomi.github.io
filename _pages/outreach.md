@@ -14,7 +14,7 @@ Early on, I had tremendous mentors who encouraged me to pursue my interests in a
 
 Mentorship has also helped me become a better scientist. Through teaching and guiding students, I am continually reminded of the passion and curiosity that first drew me to astronomy. <br>
 
-Since 2018, I have been actively involved in mentoring high school students in year-long research projects, particularly students from underserved communities. One of the central programs I have worked with is the Harvard–MIT Science Research Mentoring Program ([Harvard SRMP](https://projects.iq.harvard.edu/shrimp/home)), in which 10–15 students from the Cambridge Rindge and Latin School (the public high school in Cambridge, MA) conduct original research projects with scientists at the Center for Astrophysics and MIT. <br>
+Since 2018, I have been actively involved in mentoring high school students in year-long research projects, particularly students from underserved communities. One of the central programs I have worked with is the Harvard–MIT Science Research Mentoring Program ([SRMP]([https://projects.iq.harvard.edu/shrimp/home](https://sites.google.com/cfa.harvard.edu/srmp))), in which 10–15 students from the Cambridge Rindge and Latin School (the public high school in Cambridge, MA) conduct original research projects with scientists at the Center for Astrophysics and MIT. <br>
 
 There are many ways to evaluate the success of such programs, and each has its limitations. Two outcomes that I find particularly encouraging are: (1) the number of applicants to the program grew from 16 to 46 students between 2020 and 2023, and (2) research by SRMP students has been recognized through co-authorship on refereed scientific papers in at least six cases. <br>
 
