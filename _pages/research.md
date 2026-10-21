@@ -11,7 +11,7 @@ author_profile: true
 My research combines observations, dynamical theory, and statistical methods to study the architectures and evolutionary histories of planetary systems. I use a data-driven dynamics approach, where dynamical simulations help interpret observational signatures and observations in turn constrain and refine theoretical models. In this framework, exoplanetary systems that we observe serve as natural laboratories for testing ideas about planet formation and evolution. An up-to-date list of refereed publications can be found on [NASA/ADS](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22yahalomi%2C%20daniel%22%20&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
 <br>
 
-Here are a brief summaries of my lead-author research publications:
+Here are a brief summaries of my lead-author published research:
 
 ## The Astrometric Resoeccentric Degeneracy
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...999L...9Y/abstract) // published in ApJL_ <br>
@@ -104,7 +104,7 @@ Using nested sampling with [MultiNest](https://github.com/JohannesBuchner/MultiN
 _Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y/abstract) // published in AJ_<br>
 _Code: on [GitHub](https://github.com/dyahalomi/rv_and_astrometry)_ <br>
 _Research Summary: [Twitter Thread](https://twitter.com/dyahalomi/status/1625113519111675904)_ <br>
-_Yahalomi, Angus, Spergel, & Foreman-Macket 2024_ <br>
+_Yahalomi, Angus, Spergel, & Foreman-Mackey 2023_ <br>
 
 
 
