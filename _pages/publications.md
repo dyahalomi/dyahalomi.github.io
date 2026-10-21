@@ -11,8 +11,6 @@ An up-to-date list of refereed publications can be found on [NASA/ADS](https://u
 
 ## First Author Publications
 
-(12) **Yahalomi, D. A.** et al. "Resolving the Resoeccentric Degeneracy in Gaia-4b." In preparation (2026). <br>
-
 (11) **Yahalomi, D. A.** et al. "Preparing for the Gaia DR4 Epochalypse: Simulated Epoch Astrometry for Substellar Companion Orbit-Modeling Benchmarks." Submitted (2026). <br>
 
 (10) **Yahalomi, D. A.** et al. "Singles in Disguise: Kepler's Low-SNR Single-Transiting Systems as Incompletely Detected Multis." Submitted, [arXiv link](https://arxiv.org/abs/2610.22349) (2026). <br>
