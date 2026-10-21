@@ -18,11 +18,10 @@ Since 2018, I have been actively involved in mentoring high school students in y
 
 There are many ways to evaluate the success of such programs, and each has its limitations. Two outcomes that I find particularly encouraging are: (1) the number of applicants to the program grew from 16 to 46 students between 2020 and 2023, and (2) research by SRMP students has been recognized through co-authorship on refereed scientific papers in at least six cases. <br>
 
-I have been fortunate to serve in several roles within the Harvard SRMP: <br>
+I have been fortunate to serve in several roles within the Harvard-MIT SRMP: <br>
 
-- Co-Director of the program (2020–2023, 2026-Present)
-- Project Mentor (2020–2021, 2022–2023)
-- Associate Director (2020–2021)
+- Co-Director (2020–2023, 2026–Present)
+- Research Mentor (2020–2021, 2022–2023)
 - Head of Observing (2018–2020) <br>
 
 <div style="display: flex; justify-content: center; height: 250px;">
@@ -35,15 +34,15 @@ I have been fortunate to serve in several roles within the Harvard SRMP: <br>
 ## Columbia Student Training in Astronomy Research (STAR)
 <img align="right" src="../images/STAR_logo.jpg" width=300>
 
-Building on my experience with SRMP, with the help of an incredible team of collaborators, I founded the **Columbia Student Training in Astronomy Research (STAR) Program** in 2024-2025, a year-long, paid mentorship initiative for students from a public high school in Harlem. During my Ph.D., and specifically in 2023-2024, I assembled a team of faculty, graduate students, postdocs, and program staff at Columbia and built partnerships with school leadership and external organizations to launch the program. <br>
+Building on my experience with SRMP, with the help of an incredible team of collaborators, I founded the **Columbia Student Training in Astronomy Research (STAR) Program** in 2024–2025, a year-long, paid mentorship initiative for students from a public high school in Harlem. During my Ph.D., and specifically in 2023–2024, I assembled a team of faculty, graduate students, postdocs, and program staff at Columbia and built partnerships with school leadership and external organizations to launch the program. <br>
 
-The pilot cohort ran in the 2024–2025 academic year with 10 students conducting astronomy research projects. The program expanded to 12 students in 2025–2026, and a similar cohort is anticipated for 2026–2027. To support the program, we secured external funding from the Pinkerton Foundation to provide stipends for both students and mentors and to sustain the program across multiple cohorts. <br>
+The pilot cohort ran in the 2024–2025 academic year with 10 students conducting astronomy research projects. The program expanded to 12 students in 2025–2026, and a third cohort is now underway in 2026–2027. To support the program, we secured external funding from the Pinkerton Foundation, including grants in 2025 and 2026, to provide stipends for both students and mentors and to sustain the program across multiple cohorts. <br>
 
 I have served in several roles within the Columbia STAR Program: <br>
 
-- Director (2024–2025)
-- Advisory Director (2025-Present)
-- Project Mentor (2024–Present)
+- Founder & Director (2024–2026)
+- Advisory Director (2026–Present)
+- Research Mentor (2024–2026)
 
 
 <div style="display: flex; justify-content: center; height: 250px;">
