@@ -10,10 +10,17 @@ author_profile: true
 
 ## Students Mentored
 
+Primary advisor to 2 undergraduates and 12 high school students; co-advisor to 4 undergraduates.
+
+<br>
 **As Primary Advisor** <br>
 *Undergraduate Students:* <br>
 
-Determining the Mass and Radius of the White Dwarfs in Four Kepler Self-Lensing Binaries, 2023 – . 
+Unraveling Planet–Planet Transit Timing Variations, 2026 – Present.
+- Aditya Peddi, MIT Undergraduate (UROP).
+
+<br>
+Determining the Mass and Radius of the White Dwarfs in Four Kepler Self-Lensing Binaries, 2023 – 2024. 
 - Yassine Abaakil, Columbia University Undergraduate.
 
 <br>
@@ -28,18 +35,18 @@ Can Life’s Fingerprints Survive on Mars?, 2025 – 2026.
 <br>
 Micrometeoroid Impact Rate Analysis for an Artemis-Era Lunar Base, 2024 – 2025.
 - Nasiah Anderson, CSS 12th Grade, Currently a Lafayette College Undergraduate.
-- Mark Driker, CSS 11th Grade.
+- Mark Driker, CSS 11th Grade, Currently a Northwestern University Undergraduate.
 - Kokoro Onuma, CSS 10th Grade.
 
 <br>
 Identifying Transit Timing Variations in Planetary Hierarchical Triples, 2022 – 2023. 
-- Farai Sundai, CRLS 10th Grade.
+- Farai Sundai, CRLS 10th Grade, Currently a Northwestern University Undergraduate.
 - Jiajing Liu, CRLS 12th Grade, Currently a University of Minnesota Undergraduate.
 - Lila Valaskovic, CRLS 12th Grade, Currently a Colgate Undergraduate.
 
 <br>
 Modeling the Radial Velocities of Four Kepler Self-Lensing Binaries, 2020 – 2021.
-- Mohammed Sakib, CRLS 11th Grade. Currently a Harvard Undergraduate.
+- Mohammed Sakib, CRLS 11th Grade, Currently a Harvard Undergraduate.
 - Tsion Tedla, CRLS 12th Grade, Currently a Boston University Undergraduate.
 - Victoria Chen, CRLS 10th Grade, Currently a University of Toronto Undergraduate.
 
@@ -52,6 +59,7 @@ Modeling the Radial Velocities of Four Kepler Self-Lensing Binaries, 2020 – 20
 Profile Likelihood Analysis of Transit Timing Variations, 2025 – 2026.
 - John Moynihan, Columbia Undergraduate.
 
+<br>
 “Democratically” Detrending TESS M-Dwarfs, Summer 2022.
 - Andrew Zhang, Columbia Undergraduate.
 - Avishi Poddar, Columbia Undergraduate.
